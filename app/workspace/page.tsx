@@ -13,7 +13,7 @@ type Message = {
 
 export default function WorkspacePage() {
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'assistant', content: 'Hey there! 👋 I\'m FlashBuild AI, your creative web development companion! I have access to valuable data insights and I\'m here to help you build stunning, interactive web experiences. What would you like to create today?' }
+    { role: 'assistant', content: 'Hey! 👋 I\'m FlashBuild AI. I analyze your data to propose creative app concepts and build them instantly. I see you have some interesting data here... what kind of concept shall we explore today? 🚀' }
   ])
   const [input, setInput] = useState('')
   const [isStreamingEnabled, setIsStreamingEnabled] = useState(true)
