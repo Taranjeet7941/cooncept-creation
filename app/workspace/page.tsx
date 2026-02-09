@@ -262,7 +262,7 @@ export default function WorkspacePage() {
                 </button>
               </div>
               <p className="text-[10px] text-center mt-2 text-gray-400 uppercase tracking-widest font-medium">
-                Uses @mariozechner/pi-coding-agent • Data staying in CWD
+                Uses User data to create concepts
               </p>
             </div>
           </div>
