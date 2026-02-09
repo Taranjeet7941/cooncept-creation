@@ -6,7 +6,7 @@ const AGENT_SERVER_URL = process.env.AGENT_SERVER_URL || 'http://localhost:3001'
 
 export async function POST(req: NextRequest) {
     try {
-        const { prompt, streaming = true } = await req.json();
+        const { prompt, streaming = true, userId } = await req.json();
 
         if (!prompt) {
             return NextResponse.json({ error: 'Prompt is required' }, { status: 400 });
@@ -18,7 +18,7 @@ export async function POST(req: NextRequest) {
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ prompt, streaming }),
+            body: JSON.stringify({ prompt, streaming, userId }),
         });
 
         if (!response.ok) {

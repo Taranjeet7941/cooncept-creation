@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlashBuild Concept</title>
+    <style>
+        /* Modern CSS here */
+        :root { --primary: #6366f1; --surface: #ffffff; }
+        body { font-family: 'Inter', sans-serif; background: #f8fafc; display: flex; height: 100vh; justify-content: center; align-items: center; }
+        .signup-container { background: var(--surface); padding: 2rem; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 90%; max-width: 400px; }
+        h1 { color: var(--primary); text-align: center; margin-bottom: 1.5rem; }
+        input { width: 100%; padding: 0.75rem; margin-bottom: 1rem; border: 1px solid #ddd; border-radius: 0.25rem; }
+        button { width: 100%; background: var(--primary); color: #fff; padding: 0.75rem; border: none; border-radius: 0.25rem; cursor: pointer; transition: background 0.3s; }
+        button:hover { background: #4f46e5; }
+    </style>
+</head>
+<body>
+    <div class="signup-container">
+        <h1>Sign Up</h1>
+        <input type="text" placeholder="Name" required>
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <button>Register</button>
+    </div>
+</body>
+</html>
