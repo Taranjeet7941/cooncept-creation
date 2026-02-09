@@ -1,0 +1,201 @@
+MessageID,UserType,Channel,RawMessage,FeatureComplaint,ConfusionMoment,RepeatedQuestion,EmotionalIntensity
+1,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+2,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+3,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+4,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+5,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+6,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+7,Customer,#support,The preview took too long to load,Yes,No,No,3
+8,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+9,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+10,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+11,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+12,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+13,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+14,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+15,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+16,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+17,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+18,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+19,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+20,Customer,#support,My book cover options are not loading,Yes,No,No,4
+21,Customer,#support,I didn’t receive the email after payment,Yes,No,Yes,5
+22,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+23,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+24,Customer,#support,My book cover options are not loading,Yes,No,No,4
+25,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+26,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+27,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+28,Customer,#support,The preview took too long to load,Yes,No,No,3
+29,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+30,Customer,#support,The preview took too long to load,Yes,No,No,3
+31,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+32,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+33,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+34,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+35,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+36,Customer,#support,The preview took too long to load,Yes,No,No,3
+37,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+38,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+39,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+40,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+41,Customer,#support,The preview took too long to load,Yes,No,No,3
+42,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+43,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+44,Customer,#support,The preview took too long to load,Yes,No,No,3
+45,Customer,#support,The preview took too long to load,Yes,No,No,3
+46,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+47,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+48,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+49,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+50,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+51,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+52,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+53,Customer,#support,Payment went through but page didn’t update,Yes,No,No,5
+54,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+55,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+56,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+57,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+58,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+59,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+60,Customer,#support,The preview took too long to load,Yes,No,No,3
+61,Customer,#support,The preview took too long to load,Yes,No,No,3
+62,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+63,Customer,#support,The preview took too long to load,Yes,No,No,3
+64,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+65,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+66,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+67,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+68,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+69,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+70,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+71,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+72,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+73,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+74,Customer,#support,The preview took too long to load,Yes,No,No,3
+75,Customer,#support,My book cover options are not loading,Yes,No,No,4
+76,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+77,Customer,#support,The preview took too long to load,Yes,No,No,3
+78,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+79,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+80,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+81,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+82,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+83,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+84,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+85,Customer,#support,My book cover options are not loading,Yes,No,No,4
+86,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+87,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+88,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+89,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+90,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+91,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+92,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+93,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+94,Customer,#support,The preview took too long to load,Yes,No,No,3
+95,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+96,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+97,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+98,Customer,#support,I didn’t receive the email after payment,Yes,No,Yes,5
+99,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+100,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+101,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+102,Customer,#support,The preview took too long to load,Yes,No,No,3
+103,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+104,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+105,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+106,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+107,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+108,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+109,Customer,#support,I didn’t receive the email after payment,Yes,No,Yes,5
+110,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+111,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+112,Customer,#support,The preview took too long to load,Yes,No,No,3
+113,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+114,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+115,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+116,Customer,#support,I can’t find the occasion option,No,Yes,Yes,2
+117,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+118,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+119,Customer,#support,The preview took too long to load,Yes,No,No,3
+120,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+121,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+122,Customer,#support,Payment went through but page didn’t update,Yes,No,No,5
+123,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+124,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+125,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+126,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+127,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+128,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+129,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+130,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+131,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+132,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+133,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+134,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+135,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+136,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+137,Customer,#support,The preview took too long to load,Yes,No,No,3
+138,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+139,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+140,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+141,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+142,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+143,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+144,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+145,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+146,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+147,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+148,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+149,Customer,#support,The preview took too long to load,Yes,No,No,3
+150,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+151,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+152,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+153,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+154,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+155,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+156,Customer,#support,The preview took too long to load,Yes,No,No,3
+157,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+158,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+159,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+160,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+161,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+162,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+163,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+164,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+165,Customer,#support,The main character name field is confusing,Yes,Yes,No,3
+166,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+167,Customer,#support,Where do I enter my email address?,No,Yes,Yes,2
+168,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+169,Customer,#support,Can I change the cover after selecting it?,No,Yes,Yes,2
+170,Customer,#support,Photo upload keeps failing,Yes,No,No,5
+171,Customer,#support,I entered the recipient name but it says invalid,Yes,Yes,No,3
+172,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+173,Customer,#support,Why do you need gender for the story?,No,Yes,Yes,2
+174,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+175,Customer,#support,Payment went through but page didn’t update,Yes,No,No,5
+176,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+177,Customer,#support,How long does generation take after I answer questions?,No,Yes,Yes,2
+178,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+179,Customer,#support,I didn’t receive the email after payment,Yes,No,Yes,5
+180,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+181,Customer,#support,Where do I choose my relationship to the recipient?,No,Yes,Yes,2
+182,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+183,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+184,Customer,#support,My book cover options are not loading,Yes,No,No,4
+185,Customer,#support,What does book type mean exactly?,No,Yes,Yes,2
+186,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+187,Customer,#support,Do I have to answer all personality questions?,No,Yes,Yes,1
+188,Customer,#support,Can I edit the story after preview?,No,Yes,Yes,2
+189,Customer,#support,The preview took too long to load,Yes,No,No,3
+190,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+191,Customer,#support,The preview took too long to load,Yes,No,No,3
+192,Customer,#support,The preview took too long to load,Yes,No,No,3
+193,Customer,#support,Is the photo only used for the cover?,No,Yes,Yes,2
+194,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+195,Customer,#support,What kind of questions will you ask about the person?,No,Yes,Yes,1
+196,Customer,#support,The preview took too long to load,Yes,No,No,3
+197,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+198,Customer,#support,I added other characters but they don’t appear in preview,Yes,No,No,4
+199,Customer,#support,The tone I selected doesn’t match the generated story,Yes,No,No,4
+200,Customer,#support,Photo upload keeps failing,Yes,No,No,5

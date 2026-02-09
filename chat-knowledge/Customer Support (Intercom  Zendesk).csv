@@ -1,0 +1,201 @@
+TicketID,IssueCategory,PriorityLevel,CreatedAt,ResolvedAt,TimeToResolutionHours,EscalatedToSeniorSupport
+GAB-TICKET-7001,Book not received via email,Low,2026-01-14 11:00:00,2026-01-17 02:00:00,63,No
+GAB-TICKET-7002,Other characters missing in story,Medium,2026-01-29 08:00:00,2026-01-30 08:00:00,24,No
+GAB-TICKET-7003,Book not received via email,High,2026-03-13 03:00:00,2026-03-16 01:00:00,70,No
+GAB-TICKET-7004,Gender shown incorrectly in story,Urgent,2026-03-03 15:00:00,2026-03-06 02:00:00,59,Yes
+GAB-TICKET-7005,Personality questions reset,Urgent,2026-03-16 16:00:00,2026-03-16 21:00:00,5,No
+GAB-TICKET-7006,Recipient name not saving,Low,2026-03-21 04:00:00,2026-03-22 16:00:00,36,No
+GAB-TICKET-7007,Gender shown incorrectly in story,High,2026-01-28 08:00:00,2026-01-28 15:00:00,7,Yes
+GAB-TICKET-7008,Other characters missing in story,Low,2026-03-22 14:00:00,2026-03-23 00:00:00,10,Yes
+GAB-TICKET-7009,Book type selection unclear,Urgent,2026-02-02 21:00:00,2026-02-03 04:00:00,7,No
+GAB-TICKET-7010,Preview not generating,Medium,2026-02-07 00:00:00,2026-02-08 07:00:00,31,Yes
+GAB-TICKET-7011,Payment successful but no confirmation,High,2026-03-09 21:00:00,2026-03-11 07:00:00,34,Yes
+GAB-TICKET-7012,Tone mismatch with generated story,Urgent,2026-02-16 05:00:00,2026-02-18 15:00:00,58,No
+GAB-TICKET-7013,Gender shown incorrectly in story,Urgent,2026-01-20 08:00:00,2026-01-21 13:00:00,29,No
+GAB-TICKET-7014,Tone mismatch with generated story,Low,2026-01-25 18:00:00,2026-01-27 00:00:00,30,No
+GAB-TICKET-7015,Recipient name not saving,Urgent,2026-02-28 09:00:00,2026-03-03 09:00:00,72,Yes
+GAB-TICKET-7016,Confusion about relationship selection,Low,2026-03-05 01:00:00,2026-03-07 00:00:00,47,No
+GAB-TICKET-7017,Personality questions reset,Medium,2026-02-06 05:00:00,2026-02-07 23:00:00,42,Yes
+GAB-TICKET-7018,Payment successful but no confirmation,High,2026-02-21 14:00:00,2026-02-22 06:00:00,16,No
+GAB-TICKET-7019,Cover selection not loading,Urgent,2026-03-01 23:00:00,2026-03-02 18:00:00,19,No
+GAB-TICKET-7020,Tone mismatch with generated story,Urgent,2026-01-11 00:00:00,2026-01-12 03:00:00,27,Yes
+GAB-TICKET-7021,Photo upload failed,High,2026-03-22 00:00:00,2026-03-25 00:00:00,72,Yes
+GAB-TICKET-7022,Preview not generating,Urgent,2026-02-03 17:00:00,2026-02-06 17:00:00,72,Yes
+GAB-TICKET-7023,Gender shown incorrectly in story,Urgent,2026-01-07 05:00:00,2026-01-07 19:00:00,14,No
+GAB-TICKET-7024,Confusion about relationship selection,Medium,2026-01-17 23:00:00,2026-01-19 11:00:00,36,No
+GAB-TICKET-7025,Confusion about relationship selection,Medium,2026-03-06 23:00:00,2026-03-08 23:00:00,48,Yes
+GAB-TICKET-7026,Book not received via email,Low,2026-01-28 16:00:00,2026-01-29 13:00:00,21,Yes
+GAB-TICKET-7027,Occasion not reflected in story,Low,2026-01-24 09:00:00,2026-01-25 20:00:00,35,No
+GAB-TICKET-7028,Payment successful but no confirmation,Low,2026-03-18 03:00:00,2026-03-20 16:00:00,61,Yes
+GAB-TICKET-7029,Photo upload failed,Low,2026-01-20 11:00:00,2026-01-22 22:00:00,59,No
+GAB-TICKET-7030,Confusion about relationship selection,Medium,2026-01-20 09:00:00,2026-01-21 00:00:00,15,No
+GAB-TICKET-7031,Occasion not reflected in story,Medium,2026-03-05 17:00:00,2026-03-05 21:00:00,4,No
+GAB-TICKET-7032,Book not received via email,Urgent,2026-02-18 01:00:00,2026-02-19 22:00:00,45,Yes
+GAB-TICKET-7033,Preview not generating,High,2026-01-09 07:00:00,2026-01-09 13:00:00,6,Yes
+GAB-TICKET-7034,Preview not generating,Medium,2026-02-06 16:00:00,2026-02-09 03:00:00,59,Yes
+GAB-TICKET-7035,Occasion not reflected in story,Medium,2026-01-12 22:00:00,2026-01-13 20:00:00,22,Yes
+GAB-TICKET-7036,Photo upload failed,Low,2026-01-15 02:00:00,2026-01-16 03:00:00,25,Yes
+GAB-TICKET-7037,Main character name mismatch,High,2026-02-07 18:00:00,2026-02-08 01:00:00,7,Yes
+GAB-TICKET-7038,Preview not generating,Urgent,2026-03-02 02:00:00,2026-03-03 06:00:00,28,No
+GAB-TICKET-7039,Book type selection unclear,Urgent,2026-02-18 02:00:00,2026-02-19 13:00:00,35,Yes
+GAB-TICKET-7040,Other characters missing in story,Medium,2026-01-15 18:00:00,2026-01-16 05:00:00,11,Yes
+GAB-TICKET-7041,Gender shown incorrectly in story,High,2026-01-05 10:00:00,2026-01-05 17:00:00,7,No
+GAB-TICKET-7042,Photo upload failed,Low,2026-02-25 09:00:00,2026-02-28 00:00:00,63,No
+GAB-TICKET-7043,Tone mismatch with generated story,Urgent,2026-01-09 08:00:00,2026-01-12 01:00:00,65,No
+GAB-TICKET-7044,Other characters missing in story,Urgent,2026-01-27 01:00:00,2026-01-27 06:00:00,5,No
+GAB-TICKET-7045,Book not received via email,High,2026-03-19 02:00:00,2026-03-21 12:00:00,58,Yes
+GAB-TICKET-7046,Recipient name not saving,Medium,2026-01-14 09:00:00,2026-01-16 04:00:00,43,No
+GAB-TICKET-7047,Preview not generating,Low,2026-03-01 15:00:00,2026-03-02 07:00:00,16,No
+GAB-TICKET-7048,Cover selection not loading,Low,2026-01-21 00:00:00,2026-01-21 17:00:00,17,Yes
+GAB-TICKET-7049,Personality questions reset,Medium,2026-03-23 04:00:00,2026-03-24 01:00:00,21,Yes
+GAB-TICKET-7050,Personality questions reset,High,2026-02-23 18:00:00,2026-02-26 17:00:00,71,No
+GAB-TICKET-7051,Confusion about relationship selection,High,2026-02-25 15:00:00,2026-02-26 19:00:00,28,Yes
+GAB-TICKET-7052,Gender shown incorrectly in story,High,2026-03-18 14:00:00,2026-03-20 22:00:00,56,No
+GAB-TICKET-7053,Personality questions reset,Medium,2026-02-03 22:00:00,2026-02-06 07:00:00,57,No
+GAB-TICKET-7054,Payment successful but no confirmation,Medium,2026-01-21 05:00:00,2026-01-21 16:00:00,11,Yes
+GAB-TICKET-7055,Photo upload failed,Medium,2026-01-02 05:00:00,2026-01-03 21:00:00,40,Yes
+GAB-TICKET-7056,Occasion not reflected in story,Low,2026-02-17 23:00:00,2026-02-20 02:00:00,51,No
+GAB-TICKET-7057,Personality questions reset,Medium,2026-02-16 17:00:00,2026-02-18 04:00:00,35,No
+GAB-TICKET-7058,Other characters missing in story,High,2026-01-18 02:00:00,2026-01-20 23:00:00,69,No
+GAB-TICKET-7059,Main character name mismatch,Low,2026-03-12 16:00:00,2026-03-12 17:00:00,1,Yes
+GAB-TICKET-7060,Main character name mismatch,Low,2026-03-12 05:00:00,2026-03-13 08:00:00,27,Yes
+GAB-TICKET-7061,Occasion not reflected in story,Medium,2026-03-01 19:00:00,2026-03-03 10:00:00,39,No
+GAB-TICKET-7062,Confusion about relationship selection,Low,2026-02-12 08:00:00,2026-02-14 16:00:00,56,No
+GAB-TICKET-7063,Gender shown incorrectly in story,High,2026-03-20 07:00:00,2026-03-21 22:00:00,39,No
+GAB-TICKET-7064,Gender shown incorrectly in story,Medium,2026-02-14 15:00:00,2026-02-17 06:00:00,63,No
+GAB-TICKET-7065,Occasion not reflected in story,High,2026-02-12 13:00:00,2026-02-13 03:00:00,14,Yes
+GAB-TICKET-7066,Gender shown incorrectly in story,High,2026-02-22 16:00:00,2026-02-23 09:00:00,17,Yes
+GAB-TICKET-7067,Recipient name not saving,Urgent,2026-03-17 21:00:00,2026-03-20 05:00:00,56,No
+GAB-TICKET-7068,Photo upload failed,High,2026-01-18 00:00:00,2026-01-20 06:00:00,54,No
+GAB-TICKET-7069,Book not received via email,Medium,2026-02-14 21:00:00,2026-02-17 04:00:00,55,Yes
+GAB-TICKET-7070,Main character name mismatch,Urgent,2026-02-22 22:00:00,2026-02-24 00:00:00,26,Yes
+GAB-TICKET-7071,Confusion about relationship selection,Urgent,2026-03-09 07:00:00,2026-03-11 13:00:00,54,Yes
+GAB-TICKET-7072,Main character name mismatch,Urgent,2026-01-28 23:00:00,2026-01-29 02:00:00,3,Yes
+GAB-TICKET-7073,Occasion not reflected in story,Low,2026-03-22 11:00:00,2026-03-25 00:00:00,61,Yes
+GAB-TICKET-7074,Book not received via email,High,2026-01-30 21:00:00,2026-02-02 15:00:00,66,Yes
+GAB-TICKET-7075,Main character name mismatch,Medium,2026-03-03 11:00:00,2026-03-05 23:00:00,60,No
+GAB-TICKET-7076,Payment successful but no confirmation,Medium,2026-03-23 07:00:00,2026-03-25 10:00:00,51,No
+GAB-TICKET-7077,Main character name mismatch,High,2026-01-29 17:00:00,2026-01-30 22:00:00,29,Yes
+GAB-TICKET-7078,Recipient name not saving,Low,2026-01-23 17:00:00,2026-01-24 06:00:00,13,Yes
+GAB-TICKET-7079,Cover selection not loading,High,2026-01-01 23:00:00,2026-01-03 11:00:00,36,Yes
+GAB-TICKET-7080,Book not received via email,Urgent,2026-03-05 16:00:00,2026-03-05 19:00:00,3,No
+GAB-TICKET-7081,Other characters missing in story,Urgent,2026-02-27 23:00:00,2026-03-01 05:00:00,30,No
+GAB-TICKET-7082,Preview not generating,Urgent,2026-02-20 02:00:00,2026-02-21 09:00:00,31,Yes
+GAB-TICKET-7083,Book not received via email,High,2026-01-05 09:00:00,2026-01-07 07:00:00,46,No
+GAB-TICKET-7084,Recipient name not saving,Medium,2026-02-22 06:00:00,2026-02-22 22:00:00,16,Yes
+GAB-TICKET-7085,Occasion not reflected in story,Medium,2026-03-17 09:00:00,2026-03-18 19:00:00,34,Yes
+GAB-TICKET-7086,Book type selection unclear,Medium,2026-03-25 13:00:00,2026-03-27 06:00:00,41,No
+GAB-TICKET-7087,Photo upload failed,Medium,2026-02-10 18:00:00,2026-02-13 17:00:00,71,No
+GAB-TICKET-7088,Tone mismatch with generated story,Low,2026-01-17 07:00:00,2026-01-19 11:00:00,52,No
+GAB-TICKET-7089,Recipient name not saving,Urgent,2026-02-12 11:00:00,2026-02-13 06:00:00,19,No
+GAB-TICKET-7090,Preview not generating,High,2026-02-20 18:00:00,2026-02-21 21:00:00,27,Yes
+GAB-TICKET-7091,Personality questions reset,High,2026-03-06 17:00:00,2026-03-07 00:00:00,7,No
+GAB-TICKET-7092,Other characters missing in story,Urgent,2026-03-04 01:00:00,2026-03-05 14:00:00,37,Yes
+GAB-TICKET-7093,Personality questions reset,Low,2026-01-28 16:00:00,2026-01-30 14:00:00,46,No
+GAB-TICKET-7094,Personality questions reset,Medium,2026-01-13 20:00:00,2026-01-15 16:00:00,44,No
+GAB-TICKET-7095,Confusion about relationship selection,Medium,2026-03-04 22:00:00,2026-03-07 15:00:00,65,Yes
+GAB-TICKET-7096,Main character name mismatch,Urgent,2026-01-09 03:00:00,2026-01-12 00:00:00,69,No
+GAB-TICKET-7097,Payment successful but no confirmation,High,2026-01-16 11:00:00,2026-01-16 18:00:00,7,Yes
+GAB-TICKET-7098,Occasion not reflected in story,Medium,2026-01-02 11:00:00,2026-01-03 02:00:00,15,Yes
+GAB-TICKET-7099,Confusion about relationship selection,Medium,2026-03-12 00:00:00,2026-03-12 14:00:00,14,No
+GAB-TICKET-7100,Book type selection unclear,Medium,2026-01-04 22:00:00,2026-01-07 00:00:00,50,Yes
+GAB-TICKET-7101,Gender shown incorrectly in story,Low,2026-01-11 15:00:00,2026-01-12 04:00:00,13,No
+GAB-TICKET-7102,Recipient name not saving,Urgent,2026-02-05 04:00:00,2026-02-07 22:00:00,66,No
+GAB-TICKET-7103,Book not received via email,Medium,2026-01-26 18:00:00,2026-01-28 02:00:00,32,Yes
+GAB-TICKET-7104,Payment successful but no confirmation,Urgent,2026-02-18 04:00:00,2026-02-20 21:00:00,65,No
+GAB-TICKET-7105,Recipient name not saving,High,2026-01-12 11:00:00,2026-01-12 20:00:00,9,Yes
+GAB-TICKET-7106,Tone mismatch with generated story,Urgent,2026-02-21 13:00:00,2026-02-21 14:00:00,1,No
+GAB-TICKET-7107,Cover selection not loading,Low,2026-02-20 21:00:00,2026-02-21 07:00:00,10,Yes
+GAB-TICKET-7108,Photo upload failed,Low,2026-01-28 07:00:00,2026-01-30 16:00:00,57,No
+GAB-TICKET-7109,Cover selection not loading,Medium,2026-01-20 04:00:00,2026-01-20 22:00:00,18,Yes
+GAB-TICKET-7110,Other characters missing in story,Urgent,2026-02-24 03:00:00,2026-02-25 09:00:00,30,Yes
+GAB-TICKET-7111,Confusion about relationship selection,Urgent,2026-03-13 21:00:00,2026-03-16 11:00:00,62,No
+GAB-TICKET-7112,Payment successful but no confirmation,High,2026-03-22 07:00:00,2026-03-25 06:00:00,71,No
+GAB-TICKET-7113,Photo upload failed,Medium,2026-01-02 13:00:00,2026-01-03 10:00:00,21,No
+GAB-TICKET-7114,Book not received via email,Urgent,2026-01-06 19:00:00,2026-01-08 08:00:00,37,No
+GAB-TICKET-7115,Recipient name not saving,Low,2026-02-14 17:00:00,2026-02-17 09:00:00,64,No
+GAB-TICKET-7116,Personality questions reset,Medium,2026-02-02 11:00:00,2026-02-03 13:00:00,26,No
+GAB-TICKET-7117,Tone mismatch with generated story,Low,2026-01-30 18:00:00,2026-01-30 20:00:00,2,No
+GAB-TICKET-7118,Other characters missing in story,High,2026-02-01 03:00:00,2026-02-02 00:00:00,21,Yes
+GAB-TICKET-7119,Cover selection not loading,Medium,2026-03-18 03:00:00,2026-03-20 22:00:00,67,No
+GAB-TICKET-7120,Book not received via email,Urgent,2026-01-18 00:00:00,2026-01-18 14:00:00,14,No
+GAB-TICKET-7121,Main character name mismatch,Low,2026-02-25 05:00:00,2026-02-26 04:00:00,23,Yes
+GAB-TICKET-7122,Preview not generating,High,2026-03-12 13:00:00,2026-03-13 07:00:00,18,No
+GAB-TICKET-7123,Recipient name not saving,Medium,2026-03-18 04:00:00,2026-03-20 13:00:00,57,No
+GAB-TICKET-7124,Main character name mismatch,Urgent,2026-03-05 10:00:00,2026-03-07 18:00:00,56,No
+GAB-TICKET-7125,Book not received via email,Medium,2026-01-18 02:00:00,2026-01-20 19:00:00,65,Yes
+GAB-TICKET-7126,Book not received via email,High,2026-01-01 20:00:00,2026-01-04 01:00:00,53,No
+GAB-TICKET-7127,Tone mismatch with generated story,Urgent,2026-03-02 19:00:00,2026-03-04 11:00:00,40,No
+GAB-TICKET-7128,Personality questions reset,Low,2026-02-05 22:00:00,2026-02-08 20:00:00,70,No
+GAB-TICKET-7129,Book not received via email,Medium,2026-03-03 19:00:00,2026-03-06 05:00:00,58,Yes
+GAB-TICKET-7130,Payment successful but no confirmation,Low,2026-01-27 09:00:00,2026-01-28 12:00:00,27,Yes
+GAB-TICKET-7131,Confusion about relationship selection,Low,2026-01-19 06:00:00,2026-01-19 13:00:00,7,Yes
+GAB-TICKET-7132,Personality questions reset,High,2026-03-17 08:00:00,2026-03-17 16:00:00,8,No
+GAB-TICKET-7133,Gender shown incorrectly in story,Medium,2026-03-22 22:00:00,2026-03-23 08:00:00,10,No
+GAB-TICKET-7134,Book not received via email,High,2026-01-23 08:00:00,2026-01-23 17:00:00,9,Yes
+GAB-TICKET-7135,Recipient name not saving,Low,2026-01-19 09:00:00,2026-01-21 14:00:00,53,Yes
+GAB-TICKET-7136,Tone mismatch with generated story,Medium,2026-01-16 00:00:00,2026-01-16 19:00:00,19,Yes
+GAB-TICKET-7137,Occasion not reflected in story,Low,2026-03-15 20:00:00,2026-03-17 07:00:00,35,No
+GAB-TICKET-7138,Payment successful but no confirmation,Medium,2026-02-22 15:00:00,2026-02-24 17:00:00,50,Yes
+GAB-TICKET-7139,Payment successful but no confirmation,Urgent,2026-03-02 06:00:00,2026-03-04 09:00:00,51,No
+GAB-TICKET-7140,Confusion about relationship selection,High,2026-02-12 02:00:00,2026-02-12 03:00:00,1,No
+GAB-TICKET-7141,Gender shown incorrectly in story,High,2026-01-10 20:00:00,2026-01-12 09:00:00,37,Yes
+GAB-TICKET-7142,Main character name mismatch,Low,2026-03-06 17:00:00,2026-03-07 07:00:00,14,No
+GAB-TICKET-7143,Payment successful but no confirmation,Low,2026-02-22 22:00:00,2026-02-23 03:00:00,5,No
+GAB-TICKET-7144,Confusion about relationship selection,Medium,2026-03-08 20:00:00,2026-03-09 13:00:00,17,Yes
+GAB-TICKET-7145,Occasion not reflected in story,Low,2026-02-03 18:00:00,2026-02-06 02:00:00,56,No
+GAB-TICKET-7146,Tone mismatch with generated story,Medium,2026-02-06 01:00:00,2026-02-08 13:00:00,60,No
+GAB-TICKET-7147,Preview not generating,Low,2026-03-23 08:00:00,2026-03-24 09:00:00,25,Yes
+GAB-TICKET-7148,Other characters missing in story,Medium,2026-01-08 08:00:00,2026-01-10 04:00:00,44,No
+GAB-TICKET-7149,Cover selection not loading,Urgent,2026-01-31 20:00:00,2026-02-01 04:00:00,8,Yes
+GAB-TICKET-7150,Preview not generating,High,2026-01-05 10:00:00,2026-01-05 21:00:00,11,No
+GAB-TICKET-7151,Book type selection unclear,Urgent,2026-02-28 14:00:00,2026-03-01 03:00:00,13,No
+GAB-TICKET-7152,Book not received via email,Low,2026-03-02 08:00:00,2026-03-03 05:00:00,21,Yes
+GAB-TICKET-7153,Gender shown incorrectly in story,Urgent,2026-02-09 23:00:00,2026-02-10 10:00:00,11,Yes
+GAB-TICKET-7154,Tone mismatch with generated story,Medium,2026-02-01 13:00:00,2026-02-03 23:00:00,58,No
+GAB-TICKET-7155,Book not received via email,Low,2026-01-26 15:00:00,2026-01-26 22:00:00,7,Yes
+GAB-TICKET-7156,Occasion not reflected in story,Medium,2026-01-26 18:00:00,2026-01-26 19:00:00,1,No
+GAB-TICKET-7157,Recipient name not saving,Urgent,2026-01-04 13:00:00,2026-01-04 20:00:00,7,No
+GAB-TICKET-7158,Recipient name not saving,Low,2026-03-02 14:00:00,2026-03-05 09:00:00,67,Yes
+GAB-TICKET-7159,Book not received via email,Low,2026-02-25 00:00:00,2026-02-27 04:00:00,52,No
+GAB-TICKET-7160,Photo upload failed,High,2026-02-09 04:00:00,2026-02-11 01:00:00,45,No
+GAB-TICKET-7161,Preview not generating,Medium,2026-03-07 08:00:00,2026-03-09 21:00:00,61,Yes
+GAB-TICKET-7162,Other characters missing in story,Urgent,2026-02-27 21:00:00,2026-02-28 20:00:00,23,Yes
+GAB-TICKET-7163,Gender shown incorrectly in story,High,2026-03-15 14:00:00,2026-03-16 07:00:00,17,Yes
+GAB-TICKET-7164,Photo upload failed,Medium,2026-01-16 22:00:00,2026-01-19 04:00:00,54,Yes
+GAB-TICKET-7165,Main character name mismatch,High,2026-03-09 07:00:00,2026-03-09 10:00:00,3,Yes
+GAB-TICKET-7166,Confusion about relationship selection,Medium,2026-03-15 14:00:00,2026-03-18 13:00:00,71,Yes
+GAB-TICKET-7167,Gender shown incorrectly in story,Low,2026-02-15 18:00:00,2026-02-16 13:00:00,19,No
+GAB-TICKET-7168,Main character name mismatch,Medium,2026-03-09 10:00:00,2026-03-11 17:00:00,55,Yes
+GAB-TICKET-7169,Cover selection not loading,Low,2026-02-13 17:00:00,2026-02-15 13:00:00,44,No
+GAB-TICKET-7170,Recipient name not saving,Medium,2026-01-03 16:00:00,2026-01-04 13:00:00,21,Yes
+GAB-TICKET-7171,Recipient name not saving,Urgent,2026-03-18 11:00:00,2026-03-18 17:00:00,6,No
+GAB-TICKET-7172,Book not received via email,Urgent,2026-03-02 01:00:00,2026-03-02 08:00:00,7,Yes
+GAB-TICKET-7173,Book not received via email,Medium,2026-02-27 16:00:00,2026-02-28 19:00:00,27,No
+GAB-TICKET-7174,Gender shown incorrectly in story,High,2026-01-20 11:00:00,2026-01-22 20:00:00,57,Yes
+GAB-TICKET-7175,Payment successful but no confirmation,Medium,2026-02-22 19:00:00,2026-02-23 12:00:00,17,No
+GAB-TICKET-7176,Cover selection not loading,Low,2026-01-25 19:00:00,2026-01-28 03:00:00,56,No
+GAB-TICKET-7177,Cover selection not loading,Low,2026-02-14 13:00:00,2026-02-15 14:00:00,25,Yes
+GAB-TICKET-7178,Photo upload failed,High,2026-01-05 21:00:00,2026-01-08 10:00:00,61,Yes
+GAB-TICKET-7179,Occasion not reflected in story,High,2026-01-11 03:00:00,2026-01-13 13:00:00,58,Yes
+GAB-TICKET-7180,Preview not generating,Medium,2026-01-17 15:00:00,2026-01-20 05:00:00,62,Yes
+GAB-TICKET-7181,Preview not generating,Medium,2026-03-05 19:00:00,2026-03-06 22:00:00,27,Yes
+GAB-TICKET-7182,Photo upload failed,Low,2026-01-16 02:00:00,2026-01-17 14:00:00,36,No
+GAB-TICKET-7183,Personality questions reset,Medium,2026-01-21 09:00:00,2026-01-22 18:00:00,33,Yes
+GAB-TICKET-7184,Book type selection unclear,Medium,2026-02-16 09:00:00,2026-02-18 08:00:00,47,Yes
+GAB-TICKET-7185,Photo upload failed,Low,2026-02-08 14:00:00,2026-02-08 21:00:00,7,Yes
+GAB-TICKET-7186,Occasion not reflected in story,Low,2026-01-17 04:00:00,2026-01-19 18:00:00,62,No
+GAB-TICKET-7187,Preview not generating,Medium,2026-01-28 13:00:00,2026-01-31 04:00:00,63,Yes
+GAB-TICKET-7188,Main character name mismatch,Low,2026-02-23 21:00:00,2026-02-25 09:00:00,36,Yes
+GAB-TICKET-7189,Book type selection unclear,Urgent,2026-01-01 12:00:00,2026-01-03 09:00:00,45,Yes
+GAB-TICKET-7190,Confusion about relationship selection,Medium,2026-03-06 17:00:00,2026-03-09 12:00:00,67,No
+GAB-TICKET-7191,Main character name mismatch,Medium,2026-01-26 09:00:00,2026-01-28 17:00:00,56,Yes
+GAB-TICKET-7192,Main character name mismatch,High,2026-03-10 22:00:00,2026-03-12 17:00:00,43,No
+GAB-TICKET-7193,Payment successful but no confirmation,Low,2026-02-25 11:00:00,2026-02-27 20:00:00,57,No
+GAB-TICKET-7194,Other characters missing in story,Low,2026-03-20 22:00:00,2026-03-21 03:00:00,5,Yes
+GAB-TICKET-7195,Gender shown incorrectly in story,High,2026-02-13 06:00:00,2026-02-14 16:00:00,34,Yes
+GAB-TICKET-7196,Book not received via email,High,2026-02-04 15:00:00,2026-02-05 12:00:00,21,No
+GAB-TICKET-7197,Preview not generating,Low,2026-02-19 06:00:00,2026-02-19 17:00:00,11,Yes
+GAB-TICKET-7198,Tone mismatch with generated story,Low,2026-01-10 02:00:00,2026-01-10 18:00:00,16,No
+GAB-TICKET-7199,Other characters missing in story,High,2026-03-03 08:00:00,2026-03-03 15:00:00,7,No
+GAB-TICKET-7200,Book type selection unclear,Low,2026-02-07 17:00:00,2026-02-07 20:00:00,3,No

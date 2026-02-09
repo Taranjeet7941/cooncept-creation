@@ -1,0 +1,201 @@
+SessionID,LastActiveStep,RageClickCount,DropOffStep,RepeatedConfusionSignal,SessionCluster,SessionStartTime
+GAB-SESSION-10001,Cover Selection Step,6,Completed Purchase,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-01-28 02:26:00
+GAB-SESSION-10002,Main Character Name Step,5,Photo Upload Step,Back navigation between steps,Photo Upload Struggler,2026-02-09 09:19:00
+GAB-SESSION-10003,Gender Step,0,Photo Upload Step,None,Stuck on Personality Questions,2026-02-23 13:44:00
+GAB-SESSION-10004,Other Characters Step,7,Completed Purchase,Hovering over help text,Photo Upload Struggler,2026-01-22 01:02:00
+GAB-SESSION-10005,Other Characters Step,2,Photo Upload Step,None,Photo Upload Struggler,2026-02-15 10:59:00
+GAB-SESSION-10006,Main Character Name Step,7,Book Type Step,Back navigation between steps,Payment Drop-off,2026-01-06 05:06:00
+GAB-SESSION-10007,Personality Questions Step,12,Completed Purchase,Repeated field edits,Stuck on Personality Questions,2026-02-23 18:07:00
+GAB-SESSION-10008,Recipient Name Step,8,Cover Selection Step,Repeated field edits,Preview Hesitation,2026-02-23 21:05:00
+GAB-SESSION-10009,Photo Upload Step,5,Main Character Name Step,Hovering over help text,Payment Drop-off,2026-02-24 19:59:00
+GAB-SESSION-10010,Checkout Payment Step,9,Completed Purchase,None,Stuck on Personality Questions,2026-01-25 05:49:00
+GAB-SESSION-10011,Occasion Step,3,Completed Purchase,None,Stuck on Personality Questions,2026-02-24 08:33:00
+GAB-SESSION-10012,Relationship Step,12,Cover Selection Step,Back navigation between steps,Preview Hesitation,2026-02-23 02:13:00
+GAB-SESSION-10013,Book Type Step,2,Completed Purchase,None,Photo Upload Struggler,2026-02-08 19:14:00
+GAB-SESSION-10014,Main Character Name Step,12,Completed Purchase,Hovering over help text,Stuck on Personality Questions,2026-01-03 17:27:00
+GAB-SESSION-10015,Photo Upload Step,6,Cover Selection Step,Repeated field edits,Preview Hesitation,2026-02-02 18:22:00
+GAB-SESSION-10016,Other Characters Step,9,Relationship Step,None,Preview Hesitation,2026-01-26 00:37:00
+GAB-SESSION-10017,Main Character Name Step,11,Tone Selection Step,Back navigation between steps,Payment Drop-off,2026-01-29 14:35:00
+GAB-SESSION-10018,Other Characters Step,10,Relationship Step,Repeated field edits,Preview Hesitation,2026-02-11 12:59:00
+GAB-SESSION-10019,Occasion Step,4,Completed Purchase,Repeated field edits,Preview Hesitation,2026-02-21 21:50:00
+GAB-SESSION-10020,Photo Upload Step,10,Completed Purchase,Hovering over help text,Smooth Completion,2026-02-25 11:16:00
+GAB-SESSION-10021,Cover Selection Step,11,Recipient Name Step,None,Stuck on Personality Questions,2026-02-21 22:53:00
+GAB-SESSION-10022,Other Characters Step,9,Occasion Step,Multiple clicks on disabled continue button,Payment Drop-off,2026-01-13 20:17:00
+GAB-SESSION-10023,Recipient Name Step,9,Photo Upload Step,Multiple clicks on disabled continue button,Stuck on Personality Questions,2026-01-14 05:00:00
+GAB-SESSION-10024,Main Character Name Step,1,Tone Selection Step,None,Smooth Completion,2026-01-30 03:00:00
+GAB-SESSION-10025,Story Preview Step,3,Cover Selection Step,None,Smooth Completion,2026-01-07 16:30:00
+GAB-SESSION-10026,Checkout Payment Step,11,Completed Purchase,Repeated field edits,Smooth Completion,2026-02-03 14:18:00
+GAB-SESSION-10027,Occasion Step,5,Recipient Name Step,Multiple clicks on disabled continue button,Payment Drop-off,2026-02-08 11:47:00
+GAB-SESSION-10028,Other Characters Step,0,Completed Purchase,Back navigation between steps,Stuck on Personality Questions,2026-02-01 16:40:00
+GAB-SESSION-10029,Relationship Step,8,Completed Purchase,None,Payment Drop-off,2026-01-08 13:43:00
+GAB-SESSION-10030,Photo Upload Step,10,Relationship Step,Hovering over help text,Stuck on Personality Questions,2026-02-15 00:02:00
+GAB-SESSION-10031,Story Preview Step,10,Main Character Name Step,Back navigation between steps,Smooth Completion,2026-01-10 20:38:00
+GAB-SESSION-10032,Story Preview Step,1,Completed Purchase,Multiple clicks on disabled continue button,Payment Drop-off,2026-02-15 14:36:00
+GAB-SESSION-10033,Occasion Step,12,Photo Upload Step,Repeated field edits,Preview Hesitation,2026-01-22 15:33:00
+GAB-SESSION-10034,Main Character Name Step,8,Occasion Step,Hovering over help text,Preview Hesitation,2026-02-22 11:03:00
+GAB-SESSION-10035,Story Preview Step,3,Relationship Step,Hovering over help text,Smooth Completion,2026-02-13 15:17:00
+GAB-SESSION-10036,Relationship Step,5,Occasion Step,Back navigation between steps,Stuck on Personality Questions,2026-02-24 23:35:00
+GAB-SESSION-10037,Photo Upload Step,1,Occasion Step,None,Payment Drop-off,2026-01-30 03:05:00
+GAB-SESSION-10038,Photo Upload Step,2,Completed Purchase,Back navigation between steps,Preview Hesitation,2026-02-01 14:45:00
+GAB-SESSION-10039,Recipient Name Step,11,Checkout Payment Step,None,Preview Hesitation,2026-01-02 13:56:00
+GAB-SESSION-10040,Relationship Step,11,Occasion Step,Hovering over help text,Stuck on Personality Questions,2026-01-20 11:02:00
+GAB-SESSION-10041,Cover Selection Step,4,Occasion Step,None,Photo Upload Struggler,2026-01-02 02:59:00
+GAB-SESSION-10042,Checkout Payment Step,9,Main Character Name Step,Hovering over help text,Stuck on Personality Questions,2026-02-15 14:17:00
+GAB-SESSION-10043,Other Characters Step,0,Cover Selection Step,Back navigation between steps,Photo Upload Struggler,2026-02-17 04:17:00
+GAB-SESSION-10044,Cover Selection Step,7,Gender Step,Hovering over help text,Preview Hesitation,2026-02-15 09:57:00
+GAB-SESSION-10045,Book Type Step,4,Occasion Step,None,Preview Hesitation,2026-02-03 06:06:00
+GAB-SESSION-10046,Photo Upload Step,7,Other Characters Step,None,Smooth Completion,2026-01-13 07:15:00
+GAB-SESSION-10047,Relationship Step,3,Completed Purchase,Back navigation between steps,Smooth Completion,2026-01-15 16:00:00
+GAB-SESSION-10048,Cover Selection Step,6,Other Characters Step,Repeated field edits,Stuck on Personality Questions,2026-01-27 01:17:00
+GAB-SESSION-10049,Story Preview Step,6,Occasion Step,None,Smooth Completion,2026-02-02 06:01:00
+GAB-SESSION-10050,Checkout Payment Step,3,Checkout Payment Step,None,Smooth Completion,2026-01-03 18:34:00
+GAB-SESSION-10051,Main Character Name Step,10,Main Character Name Step,None,Payment Drop-off,2026-02-13 08:16:00
+GAB-SESSION-10052,Relationship Step,6,Photo Upload Step,Repeated field edits,Smooth Completion,2026-01-30 03:12:00
+GAB-SESSION-10053,Cover Selection Step,2,Completed Purchase,Back navigation between steps,Photo Upload Struggler,2026-02-05 21:04:00
+GAB-SESSION-10054,Main Character Name Step,12,Completed Purchase,None,Stuck on Personality Questions,2026-02-25 15:05:00
+GAB-SESSION-10055,Book Type Step,0,Completed Purchase,Repeated field edits,Photo Upload Struggler,2026-01-02 11:36:00
+GAB-SESSION-10056,Main Character Name Step,8,Main Character Name Step,None,Photo Upload Struggler,2026-02-08 06:00:00
+GAB-SESSION-10057,Tone Selection Step,9,Personality Questions Step,Repeated field edits,Payment Drop-off,2026-01-28 22:23:00
+GAB-SESSION-10058,Gender Step,2,Completed Purchase,Back navigation between steps,Payment Drop-off,2026-01-30 18:40:00
+GAB-SESSION-10059,Photo Upload Step,7,Cover Selection Step,Repeated field edits,Stuck on Personality Questions,2026-02-07 14:50:00
+GAB-SESSION-10060,Other Characters Step,10,Completed Purchase,None,Payment Drop-off,2026-02-23 11:44:00
+GAB-SESSION-10061,Occasion Step,12,Completed Purchase,Hovering over help text,Payment Drop-off,2026-01-18 04:31:00
+GAB-SESSION-10062,Cover Selection Step,8,Completed Purchase,None,Payment Drop-off,2026-02-04 15:23:00
+GAB-SESSION-10063,Relationship Step,0,Personality Questions Step,Back navigation between steps,Smooth Completion,2026-02-13 21:29:00
+GAB-SESSION-10064,Checkout Payment Step,11,Completed Purchase,None,Stuck on Personality Questions,2026-02-19 05:30:00
+GAB-SESSION-10065,Other Characters Step,3,Checkout Payment Step,None,Stuck on Personality Questions,2026-02-15 16:20:00
+GAB-SESSION-10066,Gender Step,8,Main Character Name Step,None,Photo Upload Struggler,2026-01-06 15:00:00
+GAB-SESSION-10067,Main Character Name Step,1,Tone Selection Step,None,Payment Drop-off,2026-02-17 08:09:00
+GAB-SESSION-10068,Checkout Payment Step,3,Book Type Step,Back navigation between steps,Payment Drop-off,2026-01-15 04:01:00
+GAB-SESSION-10069,Relationship Step,2,Book Type Step,None,Smooth Completion,2026-02-08 15:54:00
+GAB-SESSION-10070,Main Character Name Step,7,Completed Purchase,None,Preview Hesitation,2026-01-26 09:27:00
+GAB-SESSION-10071,Other Characters Step,6,Main Character Name Step,None,Smooth Completion,2026-01-28 09:21:00
+GAB-SESSION-10072,Relationship Step,2,Completed Purchase,Back navigation between steps,Stuck on Personality Questions,2026-01-14 06:51:00
+GAB-SESSION-10073,Photo Upload Step,2,Other Characters Step,None,Photo Upload Struggler,2026-01-19 20:01:00
+GAB-SESSION-10074,Recipient Name Step,3,Book Type Step,Back navigation between steps,Photo Upload Struggler,2026-01-29 23:20:00
+GAB-SESSION-10075,Gender Step,0,Completed Purchase,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-01-02 22:07:00
+GAB-SESSION-10076,Personality Questions Step,9,Checkout Payment Step,None,Preview Hesitation,2026-01-28 04:49:00
+GAB-SESSION-10077,Story Preview Step,7,Book Type Step,Multiple clicks on disabled continue button,Payment Drop-off,2026-02-12 06:04:00
+GAB-SESSION-10078,Photo Upload Step,0,Cover Selection Step,None,Photo Upload Struggler,2026-02-05 08:19:00
+GAB-SESSION-10079,Photo Upload Step,3,Completed Purchase,Hovering over help text,Stuck on Personality Questions,2026-01-21 05:09:00
+GAB-SESSION-10080,Cover Selection Step,7,Main Character Name Step,Back navigation between steps,Payment Drop-off,2026-02-10 20:48:00
+GAB-SESSION-10081,Occasion Step,1,Completed Purchase,Multiple clicks on disabled continue button,Smooth Completion,2026-01-30 14:01:00
+GAB-SESSION-10082,Personality Questions Step,2,Tone Selection Step,Repeated field edits,Preview Hesitation,2026-01-31 00:49:00
+GAB-SESSION-10083,Personality Questions Step,3,Personality Questions Step,Hovering over help text,Preview Hesitation,2026-02-09 04:23:00
+GAB-SESSION-10084,Tone Selection Step,3,Cover Selection Step,Hovering over help text,Payment Drop-off,2026-01-18 22:57:00
+GAB-SESSION-10085,Personality Questions Step,1,Other Characters Step,None,Payment Drop-off,2026-02-20 14:33:00
+GAB-SESSION-10086,Relationship Step,10,Completed Purchase,Repeated field edits,Photo Upload Struggler,2026-01-31 07:03:00
+GAB-SESSION-10087,Other Characters Step,12,Other Characters Step,None,Payment Drop-off,2026-01-10 13:45:00
+GAB-SESSION-10088,Gender Step,3,Completed Purchase,Back navigation between steps,Stuck on Personality Questions,2026-01-02 17:56:00
+GAB-SESSION-10089,Gender Step,12,Occasion Step,None,Payment Drop-off,2026-01-26 22:58:00
+GAB-SESSION-10090,Checkout Payment Step,12,Completed Purchase,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-02-08 21:40:00
+GAB-SESSION-10091,Main Character Name Step,9,Completed Purchase,Back navigation between steps,Preview Hesitation,2026-01-11 00:55:00
+GAB-SESSION-10092,Main Character Name Step,1,Story Preview Step,None,Preview Hesitation,2026-02-01 23:01:00
+GAB-SESSION-10093,Occasion Step,3,Story Preview Step,None,Preview Hesitation,2026-01-29 06:49:00
+GAB-SESSION-10094,Relationship Step,10,Gender Step,Hovering over help text,Payment Drop-off,2026-01-27 16:53:00
+GAB-SESSION-10095,Photo Upload Step,2,Other Characters Step,Back navigation between steps,Smooth Completion,2026-02-04 04:15:00
+GAB-SESSION-10096,Checkout Payment Step,1,Completed Purchase,None,Preview Hesitation,2026-02-18 15:54:00
+GAB-SESSION-10097,Occasion Step,3,Completed Purchase,Multiple clicks on disabled continue button,Smooth Completion,2026-01-14 09:52:00
+GAB-SESSION-10098,Gender Step,1,Main Character Name Step,None,Smooth Completion,2026-01-31 18:15:00
+GAB-SESSION-10099,Recipient Name Step,1,Completed Purchase,None,Photo Upload Struggler,2026-01-26 06:29:00
+GAB-SESSION-10100,Gender Step,3,Tone Selection Step,Multiple clicks on disabled continue button,Stuck on Personality Questions,2026-01-19 09:41:00
+GAB-SESSION-10101,Cover Selection Step,1,Gender Step,Back navigation between steps,Preview Hesitation,2026-01-13 16:41:00
+GAB-SESSION-10102,Recipient Name Step,8,Story Preview Step,Repeated field edits,Preview Hesitation,2026-01-26 15:57:00
+GAB-SESSION-10103,Book Type Step,0,Completed Purchase,Repeated field edits,Smooth Completion,2026-01-16 20:26:00
+GAB-SESSION-10104,Cover Selection Step,2,Recipient Name Step,Back navigation between steps,Preview Hesitation,2026-01-20 06:43:00
+GAB-SESSION-10105,Cover Selection Step,6,Completed Purchase,None,Preview Hesitation,2026-02-25 14:44:00
+GAB-SESSION-10106,Main Character Name Step,12,Photo Upload Step,Multiple clicks on disabled continue button,Preview Hesitation,2026-01-07 04:28:00
+GAB-SESSION-10107,Tone Selection Step,5,Story Preview Step,None,Payment Drop-off,2026-02-21 13:42:00
+GAB-SESSION-10108,Story Preview Step,1,Relationship Step,Multiple clicks on disabled continue button,Payment Drop-off,2026-01-15 04:57:00
+GAB-SESSION-10109,Relationship Step,0,Completed Purchase,Repeated field edits,Stuck on Personality Questions,2026-02-25 05:50:00
+GAB-SESSION-10110,Book Type Step,5,Completed Purchase,Repeated field edits,Photo Upload Struggler,2026-01-26 15:59:00
+GAB-SESSION-10111,Other Characters Step,5,Completed Purchase,Repeated field edits,Photo Upload Struggler,2026-01-04 01:13:00
+GAB-SESSION-10112,Relationship Step,12,Book Type Step,Hovering over help text,Smooth Completion,2026-01-23 18:56:00
+GAB-SESSION-10113,Story Preview Step,11,Completed Purchase,Multiple clicks on disabled continue button,Preview Hesitation,2026-02-13 08:09:00
+GAB-SESSION-10114,Relationship Step,2,Cover Selection Step,Back navigation between steps,Photo Upload Struggler,2026-02-07 15:03:00
+GAB-SESSION-10115,Cover Selection Step,1,Completed Purchase,Multiple clicks on disabled continue button,Preview Hesitation,2026-01-17 06:46:00
+GAB-SESSION-10116,Occasion Step,9,Book Type Step,None,Preview Hesitation,2026-02-08 14:51:00
+GAB-SESSION-10117,Occasion Step,12,Completed Purchase,Back navigation between steps,Smooth Completion,2026-01-18 21:31:00
+GAB-SESSION-10118,Gender Step,8,Completed Purchase,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-01-28 13:07:00
+GAB-SESSION-10119,Relationship Step,0,Completed Purchase,Hovering over help text,Smooth Completion,2026-02-14 05:09:00
+GAB-SESSION-10120,Book Type Step,5,Checkout Payment Step,Repeated field edits,Smooth Completion,2026-01-29 12:54:00
+GAB-SESSION-10121,Checkout Payment Step,3,Completed Purchase,Hovering over help text,Preview Hesitation,2026-02-10 11:41:00
+GAB-SESSION-10122,Relationship Step,4,Personality Questions Step,Repeated field edits,Smooth Completion,2026-01-10 19:35:00
+GAB-SESSION-10123,Personality Questions Step,9,Photo Upload Step,None,Stuck on Personality Questions,2026-01-26 01:30:00
+GAB-SESSION-10124,Gender Step,9,Completed Purchase,None,Smooth Completion,2026-01-24 17:56:00
+GAB-SESSION-10125,Gender Step,10,Photo Upload Step,None,Payment Drop-off,2026-01-03 22:00:00
+GAB-SESSION-10126,Relationship Step,10,Photo Upload Step,Back navigation between steps,Payment Drop-off,2026-02-09 18:19:00
+GAB-SESSION-10127,Other Characters Step,1,Completed Purchase,Back navigation between steps,Payment Drop-off,2026-01-29 12:57:00
+GAB-SESSION-10128,Tone Selection Step,4,Other Characters Step,None,Photo Upload Struggler,2026-01-08 16:40:00
+GAB-SESSION-10129,Occasion Step,4,Recipient Name Step,None,Preview Hesitation,2026-02-24 10:19:00
+GAB-SESSION-10130,Tone Selection Step,12,Completed Purchase,None,Stuck on Personality Questions,2026-01-08 12:59:00
+GAB-SESSION-10131,Book Type Step,1,Completed Purchase,None,Preview Hesitation,2026-01-17 06:17:00
+GAB-SESSION-10132,Other Characters Step,0,Completed Purchase,Repeated field edits,Stuck on Personality Questions,2026-01-30 18:58:00
+GAB-SESSION-10133,Cover Selection Step,5,Checkout Payment Step,None,Preview Hesitation,2026-02-19 13:29:00
+GAB-SESSION-10134,Relationship Step,12,Checkout Payment Step,Back navigation between steps,Stuck on Personality Questions,2026-02-01 02:12:00
+GAB-SESSION-10135,Photo Upload Step,2,Checkout Payment Step,Hovering over help text,Stuck on Personality Questions,2026-01-16 17:32:00
+GAB-SESSION-10136,Gender Step,5,Photo Upload Step,None,Stuck on Personality Questions,2026-02-17 23:49:00
+GAB-SESSION-10137,Main Character Name Step,11,Completed Purchase,None,Smooth Completion,2026-02-05 05:41:00
+GAB-SESSION-10138,Photo Upload Step,5,Checkout Payment Step,Hovering over help text,Smooth Completion,2026-02-17 13:15:00
+GAB-SESSION-10139,Personality Questions Step,4,Completed Purchase,Hovering over help text,Payment Drop-off,2026-02-21 01:41:00
+GAB-SESSION-10140,Personality Questions Step,3,Occasion Step,None,Payment Drop-off,2026-02-16 05:20:00
+GAB-SESSION-10141,Checkout Payment Step,11,Story Preview Step,None,Preview Hesitation,2026-02-18 01:12:00
+GAB-SESSION-10142,Checkout Payment Step,3,Completed Purchase,None,Photo Upload Struggler,2026-02-18 17:42:00
+GAB-SESSION-10143,Story Preview Step,8,Checkout Payment Step,Hovering over help text,Stuck on Personality Questions,2026-01-14 00:50:00
+GAB-SESSION-10144,Occasion Step,10,Completed Purchase,None,Payment Drop-off,2026-01-30 01:26:00
+GAB-SESSION-10145,Main Character Name Step,1,Cover Selection Step,Back navigation between steps,Preview Hesitation,2026-02-05 18:50:00
+GAB-SESSION-10146,Book Type Step,7,Personality Questions Step,None,Preview Hesitation,2026-01-17 08:28:00
+GAB-SESSION-10147,Tone Selection Step,10,Completed Purchase,Multiple clicks on disabled continue button,Smooth Completion,2026-01-23 13:18:00
+GAB-SESSION-10148,Tone Selection Step,5,Completed Purchase,Hovering over help text,Photo Upload Struggler,2026-01-10 19:57:00
+GAB-SESSION-10149,Cover Selection Step,12,Completed Purchase,Repeated field edits,Preview Hesitation,2026-02-14 09:02:00
+GAB-SESSION-10150,Book Type Step,6,Completed Purchase,None,Photo Upload Struggler,2026-02-02 20:53:00
+GAB-SESSION-10151,Recipient Name Step,9,Gender Step,Repeated field edits,Preview Hesitation,2026-02-12 04:07:00
+GAB-SESSION-10152,Gender Step,11,Completed Purchase,None,Stuck on Personality Questions,2026-02-23 02:46:00
+GAB-SESSION-10153,Checkout Payment Step,7,Completed Purchase,Hovering over help text,Smooth Completion,2026-02-22 04:41:00
+GAB-SESSION-10154,Personality Questions Step,7,Relationship Step,Repeated field edits,Payment Drop-off,2026-01-31 13:30:00
+GAB-SESSION-10155,Personality Questions Step,7,Tone Selection Step,Repeated field edits,Smooth Completion,2026-01-27 04:13:00
+GAB-SESSION-10156,Other Characters Step,12,Completed Purchase,Repeated field edits,Smooth Completion,2026-02-18 18:01:00
+GAB-SESSION-10157,Book Type Step,6,Story Preview Step,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-01-20 08:38:00
+GAB-SESSION-10158,Tone Selection Step,5,Book Type Step,Back navigation between steps,Payment Drop-off,2026-01-07 04:47:00
+GAB-SESSION-10159,Occasion Step,3,Completed Purchase,Hovering over help text,Preview Hesitation,2026-01-17 03:37:00
+GAB-SESSION-10160,Main Character Name Step,6,Main Character Name Step,Repeated field edits,Photo Upload Struggler,2026-01-30 04:40:00
+GAB-SESSION-10161,Cover Selection Step,6,Completed Purchase,Hovering over help text,Smooth Completion,2026-01-20 11:26:00
+GAB-SESSION-10162,Book Type Step,3,Checkout Payment Step,Multiple clicks on disabled continue button,Payment Drop-off,2026-02-18 07:44:00
+GAB-SESSION-10163,Occasion Step,9,Recipient Name Step,Back navigation between steps,Stuck on Personality Questions,2026-01-26 23:48:00
+GAB-SESSION-10164,Recipient Name Step,6,Relationship Step,Hovering over help text,Preview Hesitation,2026-02-08 05:44:00
+GAB-SESSION-10165,Book Type Step,7,Main Character Name Step,Multiple clicks on disabled continue button,Smooth Completion,2026-02-18 05:00:00
+GAB-SESSION-10166,Personality Questions Step,11,Completed Purchase,Back navigation between steps,Preview Hesitation,2026-01-28 11:46:00
+GAB-SESSION-10167,Tone Selection Step,3,Cover Selection Step,Hovering over help text,Photo Upload Struggler,2026-02-15 08:40:00
+GAB-SESSION-10168,Photo Upload Step,4,Completed Purchase,Repeated field edits,Smooth Completion,2026-01-13 16:12:00
+GAB-SESSION-10169,Occasion Step,3,Completed Purchase,None,Preview Hesitation,2026-01-16 10:09:00
+GAB-SESSION-10170,Checkout Payment Step,11,Checkout Payment Step,Back navigation between steps,Stuck on Personality Questions,2026-01-08 12:29:00
+GAB-SESSION-10171,Story Preview Step,4,Relationship Step,None,Stuck on Personality Questions,2026-02-06 16:22:00
+GAB-SESSION-10172,Recipient Name Step,6,Recipient Name Step,Hovering over help text,Payment Drop-off,2026-01-19 22:31:00
+GAB-SESSION-10173,Personality Questions Step,2,Checkout Payment Step,Repeated field edits,Payment Drop-off,2026-01-29 16:12:00
+GAB-SESSION-10174,Story Preview Step,10,Completed Purchase,Back navigation between steps,Payment Drop-off,2026-01-17 13:55:00
+GAB-SESSION-10175,Main Character Name Step,11,Personality Questions Step,Repeated field edits,Preview Hesitation,2026-02-06 17:08:00
+GAB-SESSION-10176,Checkout Payment Step,6,Completed Purchase,Hovering over help text,Photo Upload Struggler,2026-01-26 23:34:00
+GAB-SESSION-10177,Photo Upload Step,0,Completed Purchase,Back navigation between steps,Preview Hesitation,2026-01-18 10:15:00
+GAB-SESSION-10178,Relationship Step,5,Cover Selection Step,Hovering over help text,Preview Hesitation,2026-02-07 04:48:00
+GAB-SESSION-10179,Recipient Name Step,4,Tone Selection Step,Repeated field edits,Smooth Completion,2026-01-10 16:52:00
+GAB-SESSION-10180,Other Characters Step,3,Photo Upload Step,Hovering over help text,Photo Upload Struggler,2026-02-20 09:59:00
+GAB-SESSION-10181,Book Type Step,2,Tone Selection Step,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-02-15 01:17:00
+GAB-SESSION-10182,Gender Step,10,Personality Questions Step,Repeated field edits,Photo Upload Struggler,2026-01-04 13:12:00
+GAB-SESSION-10183,Tone Selection Step,5,Completed Purchase,None,Payment Drop-off,2026-02-22 09:29:00
+GAB-SESSION-10184,Gender Step,0,Completed Purchase,None,Stuck on Personality Questions,2026-01-17 23:48:00
+GAB-SESSION-10185,Occasion Step,8,Completed Purchase,None,Photo Upload Struggler,2026-01-29 10:23:00
+GAB-SESSION-10186,Book Type Step,6,Relationship Step,Repeated field edits,Stuck on Personality Questions,2026-01-12 00:11:00
+GAB-SESSION-10187,Recipient Name Step,4,Main Character Name Step,Multiple clicks on disabled continue button,Preview Hesitation,2026-02-02 06:59:00
+GAB-SESSION-10188,Main Character Name Step,1,Book Type Step,Repeated field edits,Payment Drop-off,2026-01-13 13:14:00
+GAB-SESSION-10189,Cover Selection Step,1,Main Character Name Step,None,Smooth Completion,2026-02-16 12:12:00
+GAB-SESSION-10190,Other Characters Step,2,Relationship Step,Hovering over help text,Smooth Completion,2026-01-02 23:35:00
+GAB-SESSION-10191,Recipient Name Step,4,Story Preview Step,Multiple clicks on disabled continue button,Payment Drop-off,2026-02-03 01:12:00
+GAB-SESSION-10192,Tone Selection Step,10,Other Characters Step,Hovering over help text,Payment Drop-off,2026-01-20 22:25:00
+GAB-SESSION-10193,Gender Step,9,Story Preview Step,Back navigation between steps,Stuck on Personality Questions,2026-01-16 17:39:00
+GAB-SESSION-10194,Book Type Step,3,Relationship Step,None,Payment Drop-off,2026-01-09 00:41:00
+GAB-SESSION-10195,Occasion Step,12,Book Type Step,Back navigation between steps,Preview Hesitation,2026-01-24 13:23:00
+GAB-SESSION-10196,Gender Step,10,Cover Selection Step,Multiple clicks on disabled continue button,Stuck on Personality Questions,2026-01-21 11:00:00
+GAB-SESSION-10197,Cover Selection Step,10,Other Characters Step,Repeated field edits,Photo Upload Struggler,2026-01-21 05:50:00
+GAB-SESSION-10198,Other Characters Step,5,Completed Purchase,Repeated field edits,Preview Hesitation,2026-01-01 15:56:00
+GAB-SESSION-10199,Book Type Step,10,Completed Purchase,Multiple clicks on disabled continue button,Photo Upload Struggler,2026-02-12 18:50:00
+GAB-SESSION-10200,Personality Questions Step,11,Cover Selection Step,Repeated field edits,Preview Hesitation,2026-02-06 10:27:00

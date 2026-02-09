@@ -1,0 +1,201 @@
+UserID,SessionDate,FurthestFunnelStep,FunnelStepNumber,FeatureTracked,FeatureUsed,Converted,ConversionValueUSD
+GAB-USER-5001,2026-01-28,Uploaded Photo,11,Answered Personality Questions,Yes,No,0
+GAB-USER-5002,2026-01-08,Selected Gender,7,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5003,2026-01-17,Selected Book Cover,12,Answered Personality Questions,Yes,No,0
+GAB-USER-5004,2026-01-15,Viewed Story Preview,13,Uploaded Photo,No,No,0
+GAB-USER-5005,2026-02-12,Selected Gender,7,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5006,2026-02-03,Completed Relationship,3,Answered Personality Questions,Yes,No,0
+GAB-USER-5007,2026-01-07,Selected Book Type,5,Viewed Preview Before Payment,No,No,0
+GAB-USER-5008,2026-03-02,Started Recipient Name,1,Uploaded Photo,No,No,0
+GAB-USER-5009,2026-02-20,Selected Book Cover,12,Answered Personality Questions,Yes,No,0
+GAB-USER-5010,2026-01-28,Completed Occasion,4,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5011,2026-03-01,Completed Recipient Name,2,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5012,2026-02-12,Selected Gender,7,Uploaded Photo,Yes,No,0
+GAB-USER-5013,2026-02-04,Viewed Story Preview,13,Viewed Preview Before Payment,No,No,0
+GAB-USER-5014,2026-01-21,Selected Book Cover,12,Viewed Preview Before Payment,No,No,0
+GAB-USER-5015,2026-01-24,Selected Gender,7,Selected Cover,Yes,No,0
+GAB-USER-5016,2026-02-16,Added Other Characters,8,Viewed Preview Before Payment,No,No,0
+GAB-USER-5017,2026-02-21,Uploaded Photo,11,Selected Cover,Yes,No,0
+GAB-USER-5018,2026-01-28,Added Other Characters,8,Answered Personality Questions,Yes,No,0
+GAB-USER-5019,2026-01-12,Completed Payment,14,Selected Cover,No,Yes,39
+GAB-USER-5020,2026-02-06,Completed Personality Questions,10,Selected Cover,Yes,No,0
+GAB-USER-5021,2026-02-07,Selected Book Type,5,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5022,2026-01-15,Entered Main Character Name,6,Uploaded Photo,Yes,No,0
+GAB-USER-5023,2026-01-02,Viewed Story Preview,13,Selected Cover,Yes,No,0
+GAB-USER-5024,2026-02-07,Completed Payment,14,Answered Personality Questions,Yes,Yes,29
+GAB-USER-5025,2026-02-01,Added Other Characters,8,Answered Personality Questions,Yes,No,0
+GAB-USER-5026,2026-02-26,Selected Book Cover,12,Selected Cover,No,No,0
+GAB-USER-5027,2026-02-18,Completed Recipient Name,2,Selected Cover,No,No,0
+GAB-USER-5028,2026-01-30,Viewed Story Preview,13,Uploaded Photo,Yes,No,0
+GAB-USER-5029,2026-02-11,Completed Relationship,3,Answered Personality Questions,Yes,No,0
+GAB-USER-5030,2026-01-26,Uploaded Photo,11,Uploaded Photo,Yes,No,0
+GAB-USER-5031,2026-01-20,Selected Tone,9,Viewed Preview Before Payment,No,No,0
+GAB-USER-5032,2026-01-29,Selected Book Cover,12,Uploaded Photo,No,No,0
+GAB-USER-5033,2026-01-04,Completed Occasion,4,Selected Cover,Yes,No,0
+GAB-USER-5034,2026-01-11,Selected Book Type,5,Answered Personality Questions,Yes,No,0
+GAB-USER-5035,2026-01-30,Viewed Story Preview,13,Viewed Preview Before Payment,No,No,0
+GAB-USER-5036,2026-01-09,Completed Payment,14,Uploaded Photo,No,Yes,19
+GAB-USER-5037,2026-02-02,Selected Tone,9,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5038,2026-02-05,Completed Recipient Name,2,Selected Cover,Yes,No,0
+GAB-USER-5039,2026-01-05,Added Other Characters,8,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5040,2026-02-27,Completed Occasion,4,Uploaded Photo,Yes,No,0
+GAB-USER-5041,2026-02-03,Viewed Story Preview,13,Selected Cover,Yes,No,0
+GAB-USER-5042,2026-02-23,Started Recipient Name,1,Uploaded Photo,No,No,0
+GAB-USER-5043,2026-01-23,Viewed Story Preview,13,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5044,2026-01-30,Completed Payment,14,Selected Cover,No,Yes,9
+GAB-USER-5045,2026-02-17,Selected Gender,7,Uploaded Photo,Yes,No,0
+GAB-USER-5046,2026-01-24,Completed Relationship,3,Viewed Preview Before Payment,No,No,0
+GAB-USER-5047,2026-01-23,Completed Recipient Name,2,Answered Personality Questions,Yes,No,0
+GAB-USER-5048,2026-03-02,Completed Personality Questions,10,Viewed Preview Before Payment,No,No,0
+GAB-USER-5049,2026-03-01,Entered Main Character Name,6,Answered Personality Questions,Yes,No,0
+GAB-USER-5050,2026-01-05,Completed Personality Questions,10,Uploaded Photo,Yes,No,0
+GAB-USER-5051,2026-02-28,Selected Book Type,5,Answered Personality Questions,Yes,No,0
+GAB-USER-5052,2026-02-17,Completed Personality Questions,10,Selected Cover,No,No,0
+GAB-USER-5053,2026-01-28,Started Recipient Name,1,Uploaded Photo,No,No,0
+GAB-USER-5054,2026-02-23,Selected Tone,9,Selected Cover,Yes,No,0
+GAB-USER-5055,2026-02-05,Completed Payment,14,Answered Personality Questions,Yes,Yes,9
+GAB-USER-5056,2026-02-24,Started Recipient Name,1,Uploaded Photo,Yes,No,0
+GAB-USER-5057,2026-02-24,Viewed Story Preview,13,Uploaded Photo,No,No,0
+GAB-USER-5058,2026-02-21,Uploaded Photo,11,Viewed Preview Before Payment,No,No,0
+GAB-USER-5059,2026-02-16,Completed Relationship,3,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5060,2026-02-13,Added Other Characters,8,Uploaded Photo,Yes,No,0
+GAB-USER-5061,2026-02-14,Entered Main Character Name,6,Uploaded Photo,Yes,No,0
+GAB-USER-5062,2026-01-13,Completed Occasion,4,Uploaded Photo,Yes,No,0
+GAB-USER-5063,2026-02-11,Selected Tone,9,Uploaded Photo,No,No,0
+GAB-USER-5064,2026-01-08,Completed Occasion,4,Uploaded Photo,Yes,No,0
+GAB-USER-5065,2026-02-26,Uploaded Photo,11,Uploaded Photo,Yes,No,0
+GAB-USER-5066,2026-02-02,Completed Personality Questions,10,Answered Personality Questions,No,No,0
+GAB-USER-5067,2026-01-17,Entered Main Character Name,6,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5068,2026-02-20,Viewed Story Preview,13,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5069,2026-01-13,Completed Occasion,4,Uploaded Photo,Yes,No,0
+GAB-USER-5070,2026-02-20,Completed Occasion,4,Viewed Preview Before Payment,No,No,0
+GAB-USER-5071,2026-02-14,Added Other Characters,8,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5072,2026-02-04,Added Other Characters,8,Selected Cover,Yes,No,0
+GAB-USER-5073,2026-02-17,Viewed Story Preview,13,Selected Cover,No,No,0
+GAB-USER-5074,2026-02-19,Uploaded Photo,11,Answered Personality Questions,No,No,0
+GAB-USER-5075,2026-02-20,Completed Relationship,3,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5076,2026-01-10,Selected Tone,9,Uploaded Photo,No,No,0
+GAB-USER-5077,2026-01-31,Completed Relationship,3,Uploaded Photo,No,No,0
+GAB-USER-5078,2026-01-13,Completed Recipient Name,2,Uploaded Photo,Yes,No,0
+GAB-USER-5079,2026-02-07,Selected Book Type,5,Selected Cover,Yes,No,0
+GAB-USER-5080,2026-01-17,Selected Gender,7,Uploaded Photo,No,No,0
+GAB-USER-5081,2026-02-26,Completed Personality Questions,10,Uploaded Photo,Yes,No,0
+GAB-USER-5082,2026-02-05,Selected Tone,9,Viewed Preview Before Payment,No,No,0
+GAB-USER-5083,2026-01-20,Completed Occasion,4,Viewed Preview Before Payment,No,No,0
+GAB-USER-5084,2026-01-04,Completed Occasion,4,Selected Cover,Yes,No,0
+GAB-USER-5085,2026-02-13,Viewed Story Preview,13,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5086,2026-02-06,Selected Gender,7,Answered Personality Questions,No,No,0
+GAB-USER-5087,2026-02-26,Added Other Characters,8,Answered Personality Questions,Yes,No,0
+GAB-USER-5088,2026-02-19,Viewed Story Preview,13,Selected Cover,Yes,No,0
+GAB-USER-5089,2026-01-01,Completed Occasion,4,Selected Cover,Yes,No,0
+GAB-USER-5090,2026-02-15,Selected Gender,7,Selected Cover,Yes,No,0
+GAB-USER-5091,2026-02-14,Completed Personality Questions,10,Uploaded Photo,No,No,0
+GAB-USER-5092,2026-01-20,Completed Occasion,4,Answered Personality Questions,Yes,No,0
+GAB-USER-5093,2026-02-07,Selected Book Cover,12,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5094,2026-01-07,Viewed Story Preview,13,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5095,2026-02-12,Started Recipient Name,1,Selected Cover,No,No,0
+GAB-USER-5096,2026-02-27,Completed Recipient Name,2,Answered Personality Questions,No,No,0
+GAB-USER-5097,2026-01-09,Completed Recipient Name,2,Uploaded Photo,No,No,0
+GAB-USER-5098,2026-01-03,Added Other Characters,8,Selected Cover,Yes,No,0
+GAB-USER-5099,2026-01-05,Completed Payment,14,Answered Personality Questions,Yes,Yes,39
+GAB-USER-5100,2026-02-14,Selected Gender,7,Answered Personality Questions,Yes,No,0
+GAB-USER-5101,2026-01-23,Started Recipient Name,1,Selected Cover,No,No,0
+GAB-USER-5102,2026-02-13,Completed Payment,14,Viewed Preview Before Payment,No,Yes,19
+GAB-USER-5103,2026-01-08,Selected Book Cover,12,Selected Cover,Yes,No,0
+GAB-USER-5104,2026-02-04,Completed Recipient Name,2,Uploaded Photo,Yes,No,0
+GAB-USER-5105,2026-01-05,Selected Book Cover,12,Selected Cover,Yes,No,0
+GAB-USER-5106,2026-02-23,Selected Gender,7,Answered Personality Questions,Yes,No,0
+GAB-USER-5107,2026-02-19,Added Other Characters,8,Selected Cover,Yes,No,0
+GAB-USER-5108,2026-02-03,Selected Gender,7,Selected Cover,No,No,0
+GAB-USER-5109,2026-01-01,Completed Recipient Name,2,Uploaded Photo,Yes,No,0
+GAB-USER-5110,2026-01-13,Completed Occasion,4,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5111,2026-01-27,Completed Relationship,3,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5112,2026-02-11,Entered Main Character Name,6,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5113,2026-02-05,Selected Book Cover,12,Selected Cover,Yes,No,0
+GAB-USER-5114,2026-02-28,Selected Gender,7,Uploaded Photo,Yes,No,0
+GAB-USER-5115,2026-02-20,Started Recipient Name,1,Uploaded Photo,No,No,0
+GAB-USER-5116,2026-01-19,Selected Gender,7,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5117,2026-01-02,Completed Personality Questions,10,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5118,2026-02-17,Started Recipient Name,1,Selected Cover,No,No,0
+GAB-USER-5119,2026-01-06,Completed Relationship,3,Uploaded Photo,Yes,No,0
+GAB-USER-5120,2026-01-19,Completed Occasion,4,Selected Cover,Yes,No,0
+GAB-USER-5121,2026-01-16,Selected Tone,9,Answered Personality Questions,Yes,No,0
+GAB-USER-5122,2026-01-29,Uploaded Photo,11,Answered Personality Questions,Yes,No,0
+GAB-USER-5123,2026-02-20,Selected Gender,7,Uploaded Photo,No,No,0
+GAB-USER-5124,2026-01-22,Completed Personality Questions,10,Answered Personality Questions,Yes,No,0
+GAB-USER-5125,2026-01-19,Selected Book Type,5,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5126,2026-02-23,Uploaded Photo,11,Selected Cover,Yes,No,0
+GAB-USER-5127,2026-02-01,Viewed Story Preview,13,Viewed Preview Before Payment,No,No,0
+GAB-USER-5128,2026-02-24,Selected Book Cover,12,Uploaded Photo,No,No,0
+GAB-USER-5129,2026-02-03,Selected Gender,7,Selected Cover,Yes,No,0
+GAB-USER-5130,2026-02-09,Completed Relationship,3,Answered Personality Questions,Yes,No,0
+GAB-USER-5131,2026-01-02,Completed Relationship,3,Uploaded Photo,No,No,0
+GAB-USER-5132,2026-01-07,Entered Main Character Name,6,Answered Personality Questions,Yes,No,0
+GAB-USER-5133,2026-02-21,Selected Book Type,5,Answered Personality Questions,Yes,No,0
+GAB-USER-5134,2026-01-09,Started Recipient Name,1,Answered Personality Questions,Yes,No,0
+GAB-USER-5135,2026-01-04,Selected Gender,7,Uploaded Photo,Yes,No,0
+GAB-USER-5136,2026-02-18,Added Other Characters,8,Answered Personality Questions,Yes,No,0
+GAB-USER-5137,2026-01-22,Completed Payment,14,Selected Cover,Yes,Yes,39
+GAB-USER-5138,2026-02-15,Completed Personality Questions,10,Uploaded Photo,Yes,No,0
+GAB-USER-5139,2026-01-21,Completed Payment,14,Viewed Preview Before Payment,Yes,Yes,9
+GAB-USER-5140,2026-02-27,Completed Recipient Name,2,Selected Cover,Yes,No,0
+GAB-USER-5141,2026-01-03,Selected Book Type,5,Uploaded Photo,Yes,No,0
+GAB-USER-5142,2026-02-05,Viewed Story Preview,13,Viewed Preview Before Payment,No,No,0
+GAB-USER-5143,2026-01-23,Selected Tone,9,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5144,2026-02-27,Selected Tone,9,Selected Cover,No,No,0
+GAB-USER-5145,2026-02-15,Entered Main Character Name,6,Answered Personality Questions,Yes,No,0
+GAB-USER-5146,2026-01-18,Completed Payment,14,Uploaded Photo,Yes,Yes,39
+GAB-USER-5147,2026-01-06,Added Other Characters,8,Selected Cover,No,No,0
+GAB-USER-5148,2026-02-12,Started Recipient Name,1,Answered Personality Questions,Yes,No,0
+GAB-USER-5149,2026-01-19,Completed Personality Questions,10,Uploaded Photo,Yes,No,0
+GAB-USER-5150,2026-01-26,Selected Book Type,5,Uploaded Photo,No,No,0
+GAB-USER-5151,2026-02-13,Added Other Characters,8,Selected Cover,No,No,0
+GAB-USER-5152,2026-01-01,Selected Book Type,5,Uploaded Photo,Yes,No,0
+GAB-USER-5153,2026-01-31,Added Other Characters,8,Selected Cover,Yes,No,0
+GAB-USER-5154,2026-01-22,Completed Personality Questions,10,Selected Cover,No,No,0
+GAB-USER-5155,2026-02-18,Selected Book Cover,12,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5156,2026-03-02,Entered Main Character Name,6,Viewed Preview Before Payment,No,No,0
+GAB-USER-5157,2026-03-02,Completed Occasion,4,Uploaded Photo,Yes,No,0
+GAB-USER-5158,2026-01-23,Completed Occasion,4,Selected Cover,Yes,No,0
+GAB-USER-5159,2026-02-25,Completed Occasion,4,Uploaded Photo,Yes,No,0
+GAB-USER-5160,2026-01-12,Selected Book Type,5,Answered Personality Questions,Yes,No,0
+GAB-USER-5161,2026-01-27,Uploaded Photo,11,Answered Personality Questions,Yes,No,0
+GAB-USER-5162,2026-02-12,Selected Tone,9,Selected Cover,Yes,No,0
+GAB-USER-5163,2026-01-21,Selected Book Type,5,Selected Cover,No,No,0
+GAB-USER-5164,2026-01-02,Selected Gender,7,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5165,2026-02-08,Completed Recipient Name,2,Selected Cover,Yes,No,0
+GAB-USER-5166,2026-01-06,Started Recipient Name,1,Uploaded Photo,Yes,No,0
+GAB-USER-5167,2026-02-28,Selected Book Type,5,Selected Cover,Yes,No,0
+GAB-USER-5168,2026-01-07,Uploaded Photo,11,Uploaded Photo,No,No,0
+GAB-USER-5169,2026-01-31,Selected Gender,7,Answered Personality Questions,Yes,No,0
+GAB-USER-5170,2026-02-17,Started Recipient Name,1,Selected Cover,Yes,No,0
+GAB-USER-5171,2026-01-07,Entered Main Character Name,6,Uploaded Photo,No,No,0
+GAB-USER-5172,2026-02-24,Completed Personality Questions,10,Answered Personality Questions,Yes,No,0
+GAB-USER-5173,2026-01-30,Started Recipient Name,1,Viewed Preview Before Payment,No,No,0
+GAB-USER-5174,2026-02-11,Selected Tone,9,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5175,2026-02-11,Selected Book Type,5,Answered Personality Questions,No,No,0
+GAB-USER-5176,2026-01-31,Completed Occasion,4,Selected Cover,No,No,0
+GAB-USER-5177,2026-01-21,Completed Occasion,4,Viewed Preview Before Payment,No,No,0
+GAB-USER-5178,2026-01-29,Selected Tone,9,Answered Personality Questions,Yes,No,0
+GAB-USER-5179,2026-01-29,Completed Occasion,4,Selected Cover,No,No,0
+GAB-USER-5180,2026-02-04,Completed Occasion,4,Viewed Preview Before Payment,No,No,0
+GAB-USER-5181,2026-02-18,Selected Book Type,5,Answered Personality Questions,No,No,0
+GAB-USER-5182,2026-02-05,Selected Gender,7,Uploaded Photo,No,No,0
+GAB-USER-5183,2026-02-05,Viewed Story Preview,13,Answered Personality Questions,Yes,No,0
+GAB-USER-5184,2026-01-25,Started Recipient Name,1,Answered Personality Questions,No,No,0
+GAB-USER-5185,2026-02-23,Completed Personality Questions,10,Selected Cover,Yes,No,0
+GAB-USER-5186,2026-01-24,Uploaded Photo,11,Selected Cover,No,No,0
+GAB-USER-5187,2026-02-11,Selected Tone,9,Selected Cover,Yes,No,0
+GAB-USER-5188,2026-01-13,Selected Gender,7,Selected Cover,Yes,No,0
+GAB-USER-5189,2026-02-05,Started Recipient Name,1,Answered Personality Questions,Yes,No,0
+GAB-USER-5190,2026-02-07,Added Other Characters,8,Answered Personality Questions,Yes,No,0
+GAB-USER-5191,2026-01-11,Completed Personality Questions,10,Answered Personality Questions,Yes,No,0
+GAB-USER-5192,2026-02-16,Uploaded Photo,11,Answered Personality Questions,Yes,No,0
+GAB-USER-5193,2026-01-20,Uploaded Photo,11,Selected Cover,Yes,No,0
+GAB-USER-5194,2026-01-31,Completed Payment,14,Uploaded Photo,Yes,Yes,39
+GAB-USER-5195,2026-02-07,Added Other Characters,8,Uploaded Photo,Yes,No,0
+GAB-USER-5196,2026-01-13,Selected Gender,7,Selected Cover,No,No,0
+GAB-USER-5197,2026-02-13,Completed Payment,14,Uploaded Photo,No,Yes,39
+GAB-USER-5198,2026-01-26,Uploaded Photo,11,Selected Cover,Yes,No,0
+GAB-USER-5199,2026-01-14,Selected Book Cover,12,Viewed Preview Before Payment,Yes,No,0
+GAB-USER-5200,2026-01-12,Completed Personality Questions,10,Uploaded Photo,Yes,No,0

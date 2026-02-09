@@ -1,0 +1,201 @@
+IssueID,FeatureDescription,AcceptanceCriteria,CurrentStatus,OutcomeAfterRelease,ReopenedIssue,CreatedDate
+GAB-1000,Occasion selection step,Selected gender is reflected correctly in story text,In Progress,Improved completion rate,Yes,2026-02-15
+GAB-1001,Photo upload reliability,Selected tone influences narrative style,QA Testing,Worked as expected,No,2026-02-15
+GAB-1002,Checkout payment processing,User must select a book type before continuing,Done,Caused user confusion,Yes,2026-02-11
+GAB-1003,Checkout payment processing,Preview loads within acceptable time,Backlog,Worked as expected,Yes,2026-01-15
+GAB-1004,Checkout payment processing,User can enter recipient name without validation errors for normal names,Backlog,Caused user confusion,Yes,2026-02-27
+GAB-1005,Personality questions flow,Relationship options are clearly visible and selectable,QA Testing,Worked as expected,No,2026-02-18
+GAB-1006,Book type selection UI,Other characters appear in generated story context,Released,No noticeable impact,No,2026-02-28
+GAB-1007,Book type selection UI,Photo upload accepts JPG/PNG up to size limit,Done,Worked as expected,Yes,2026-01-21
+GAB-1008,Email delivery after purchase,Relationship options are clearly visible and selectable,Backlog,Minor issues found,Yes,2026-01-13
+GAB-1009,Personality questions flow,Preview loads within acceptable time,In Progress,Improved completion rate,No,2026-01-10
+GAB-1010,Checkout payment processing,User must select a book type before continuing,Backlog,No noticeable impact,Yes,2026-01-07
+GAB-1011,Recipient name input validation,Main character name is saved and reflected in story,Done,Minor issues found,No,2026-02-06
+GAB-1012,Checkout payment processing,User can select one of multiple generated covers,In Progress,Caused user confusion,Yes,2026-02-01
+GAB-1013,Book cover generation step,User can select one of multiple generated covers,Backlog,Minor issues found,No,2026-02-01
+GAB-1014,Story preview loading performance,Relationship options are clearly visible and selectable,Released,Improved completion rate,Yes,2026-02-23
+GAB-1015,Additional characters input handling,User can select one of multiple generated covers,Released,Worked as expected,No,2026-02-21
+GAB-1016,Personality questions flow,Relationship options are clearly visible and selectable,Released,Worked as expected,Yes,2026-01-23
+GAB-1017,Book type selection UI,User can select one of multiple generated covers,QA Testing,Improved completion rate,No,2026-02-03
+GAB-1018,Gender selection accuracy,User can answer personality questions without form reset,In Progress,Improved completion rate,Yes,2026-02-28
+GAB-1019,Recipient name input validation,Other characters appear in generated story context,Done,Caused user confusion,Yes,2026-02-07
+GAB-1020,Photo upload reliability,Relationship options are clearly visible and selectable,Released,Improved completion rate,No,2026-02-24
+GAB-1021,Main character name field,User can select one of multiple generated covers,Released,Worked as expected,No,2026-02-27
+GAB-1022,Story preview loading performance,Other characters appear in generated story context,Done,Worked as expected,Yes,2026-02-14
+GAB-1023,Occasion selection step,Relationship options are clearly visible and selectable,Backlog,Improved completion rate,Yes,2026-02-11
+GAB-1024,Book cover generation step,Selected gender is reflected correctly in story text,Done,Caused user confusion,No,2026-01-23
+GAB-1025,Story preview loading performance,Relationship options are clearly visible and selectable,QA Testing,Worked as expected,No,2026-02-05
+GAB-1026,Book type selection UI,User can select one of multiple generated covers,Done,Worked as expected,No,2026-02-26
+GAB-1027,Personality questions flow,Photo upload accepts JPG/PNG up to size limit,Backlog,No noticeable impact,Yes,2026-02-07
+GAB-1028,Gender selection accuracy,Selected tone influences narrative style,Released,Improved completion rate,Yes,2026-02-11
+GAB-1029,Book type selection UI,Preview loads within acceptable time,Done,No noticeable impact,Yes,2026-01-30
+GAB-1030,Story preview loading performance,Payment confirmation shown after successful transaction,Backlog,Worked as expected,No,2026-02-03
+GAB-1031,Gender selection accuracy,User can select one of multiple generated covers,Done,No noticeable impact,Yes,2026-01-15
+GAB-1032,Book type selection UI,User must select a book type before continuing,QA Testing,Improved completion rate,No,2026-02-24
+GAB-1033,Additional characters input handling,Occasion must be selectable before moving forward,QA Testing,Caused user confusion,Yes,2026-01-13
+GAB-1034,Recipient name input validation,Payment confirmation shown after successful transaction,Backlog,Worked as expected,Yes,2026-02-26
+GAB-1035,Relationship selection clarity,User can answer personality questions without form reset,In Progress,No noticeable impact,Yes,2026-02-21
+GAB-1036,Checkout payment processing,Occasion must be selectable before moving forward,Backlog,Improved completion rate,No,2026-02-07
+GAB-1037,Additional characters input handling,User can enter recipient name without validation errors for normal names,In Progress,Caused user confusion,No,2026-01-02
+GAB-1038,Photo upload reliability,Photo upload accepts JPG/PNG up to size limit,In Progress,Caused user confusion,Yes,2026-02-16
+GAB-1039,Story preview loading performance,User can select one of multiple generated covers,Released,Improved completion rate,Yes,2026-01-24
+GAB-1040,Book type selection UI,Photo upload accepts JPG/PNG up to size limit,Backlog,No noticeable impact,No,2026-01-23
+GAB-1041,Relationship selection clarity,User must select a book type before continuing,Released,Minor issues found,Yes,2026-02-13
+GAB-1042,Book type selection UI,User must select a book type before continuing,Released,Worked as expected,No,2026-01-09
+GAB-1043,Relationship selection clarity,Photo upload accepts JPG/PNG up to size limit,Backlog,Minor issues found,No,2026-01-31
+GAB-1044,Additional characters input handling,Preview loads within acceptable time,QA Testing,No noticeable impact,Yes,2026-02-20
+GAB-1045,Photo upload reliability,Main character name is saved and reflected in story,Released,Improved completion rate,No,2026-01-14
+GAB-1046,Email delivery after purchase,Preview loads within acceptable time,QA Testing,Improved completion rate,No,2026-01-25
+GAB-1047,Checkout payment processing,User can enter recipient name without validation errors for normal names,In Progress,Improved completion rate,No,2026-02-05
+GAB-1048,Checkout payment processing,User must select a book type before continuing,In Progress,Caused user confusion,Yes,2026-02-03
+GAB-1049,Email delivery after purchase,User must select a book type before continuing,QA Testing,No noticeable impact,No,2026-01-10
+GAB-1050,Main character name field,User can select one of multiple generated covers,In Progress,Worked as expected,No,2026-01-20
+GAB-1051,Story tone selection mapping,Relationship options are clearly visible and selectable,Backlog,Improved completion rate,Yes,2026-02-16
+GAB-1052,Story preview loading performance,User must select a book type before continuing,QA Testing,Minor issues found,Yes,2026-02-27
+GAB-1053,Personality questions flow,User can select one of multiple generated covers,Released,No noticeable impact,Yes,2026-02-28
+GAB-1054,Personality questions flow,User can select one of multiple generated covers,Released,Worked as expected,Yes,2026-01-13
+GAB-1055,Story tone selection mapping,Main character name is saved and reflected in story,Backlog,Worked as expected,No,2026-01-26
+GAB-1056,Book cover generation step,Photo upload accepts JPG/PNG up to size limit,In Progress,Caused user confusion,No,2026-02-01
+GAB-1057,Gender selection accuracy,Other characters appear in generated story context,Released,No noticeable impact,No,2026-01-24
+GAB-1058,Checkout payment processing,Selected gender is reflected correctly in story text,In Progress,Improved completion rate,Yes,2026-01-18
+GAB-1059,Additional characters input handling,User can enter recipient name without validation errors for normal names,QA Testing,Caused user confusion,No,2026-02-16
+GAB-1060,Additional characters input handling,Main character name is saved and reflected in story,Backlog,Caused user confusion,Yes,2026-01-14
+GAB-1061,Gender selection accuracy,User can enter recipient name without validation errors for normal names,Released,Improved completion rate,Yes,2026-02-01
+GAB-1062,Relationship selection clarity,Book is emailed automatically after successful payment,In Progress,Worked as expected,Yes,2026-01-19
+GAB-1063,Book cover generation step,Selected tone influences narrative style,Backlog,Worked as expected,Yes,2026-02-21
+GAB-1064,Book type selection UI,Other characters appear in generated story context,QA Testing,Worked as expected,No,2026-02-23
+GAB-1065,Relationship selection clarity,User can select one of multiple generated covers,QA Testing,Minor issues found,Yes,2026-02-22
+GAB-1066,Story tone selection mapping,Main character name is saved and reflected in story,Released,No noticeable impact,Yes,2026-01-15
+GAB-1067,Book cover generation step,Main character name is saved and reflected in story,Done,Improved completion rate,No,2026-02-16
+GAB-1068,Email delivery after purchase,Photo upload accepts JPG/PNG up to size limit,Backlog,No noticeable impact,No,2026-02-05
+GAB-1069,Gender selection accuracy,User can answer personality questions without form reset,Backlog,Caused user confusion,No,2026-01-08
+GAB-1070,Recipient name input validation,Other characters appear in generated story context,In Progress,Caused user confusion,No,2026-02-15
+GAB-1071,Email delivery after purchase,User can select one of multiple generated covers,Backlog,Caused user confusion,Yes,2026-03-01
+GAB-1072,Relationship selection clarity,Preview loads within acceptable time,In Progress,Minor issues found,Yes,2026-02-01
+GAB-1073,Book type selection UI,User can select one of multiple generated covers,Backlog,Worked as expected,No,2026-02-02
+GAB-1074,Additional characters input handling,Relationship options are clearly visible and selectable,Released,No noticeable impact,No,2026-01-02
+GAB-1075,Checkout payment processing,User can enter recipient name without validation errors for normal names,Released,No noticeable impact,Yes,2026-01-24
+GAB-1076,Relationship selection clarity,Payment confirmation shown after successful transaction,Released,No noticeable impact,No,2026-02-01
+GAB-1077,Occasion selection step,Preview loads within acceptable time,In Progress,Improved completion rate,Yes,2026-01-04
+GAB-1078,Checkout payment processing,Preview loads within acceptable time,In Progress,Minor issues found,Yes,2026-01-03
+GAB-1079,Recipient name input validation,Photo upload accepts JPG/PNG up to size limit,In Progress,Worked as expected,No,2026-01-31
+GAB-1080,Email delivery after purchase,Preview loads within acceptable time,In Progress,Minor issues found,No,2026-01-02
+GAB-1081,Photo upload reliability,Occasion must be selectable before moving forward,Backlog,Improved completion rate,Yes,2026-03-02
+GAB-1082,Email delivery after purchase,Main character name is saved and reflected in story,Done,Caused user confusion,Yes,2026-02-25
+GAB-1083,Photo upload reliability,User can select one of multiple generated covers,QA Testing,Caused user confusion,No,2026-02-23
+GAB-1084,Main character name field,User can enter recipient name without validation errors for normal names,QA Testing,Worked as expected,No,2026-01-22
+GAB-1085,Story preview loading performance,Selected tone influences narrative style,In Progress,Worked as expected,No,2026-01-02
+GAB-1086,Book cover generation step,Main character name is saved and reflected in story,Backlog,Minor issues found,Yes,2026-01-29
+GAB-1087,Relationship selection clarity,Other characters appear in generated story context,In Progress,No noticeable impact,Yes,2026-01-25
+GAB-1088,Photo upload reliability,Book is emailed automatically after successful payment,Backlog,Minor issues found,Yes,2026-01-28
+GAB-1089,Photo upload reliability,Preview loads within acceptable time,Released,Improved completion rate,No,2026-01-29
+GAB-1090,Book type selection UI,User can enter recipient name without validation errors for normal names,In Progress,Minor issues found,No,2026-02-16
+GAB-1091,Email delivery after purchase,Payment confirmation shown after successful transaction,Backlog,Improved completion rate,No,2026-01-13
+GAB-1092,Checkout payment processing,User can select one of multiple generated covers,Backlog,Minor issues found,No,2026-01-18
+GAB-1093,Story tone selection mapping,Book is emailed automatically after successful payment,QA Testing,No noticeable impact,No,2026-01-05
+GAB-1094,Recipient name input validation,Preview loads within acceptable time,In Progress,Minor issues found,Yes,2026-02-12
+GAB-1095,Story preview loading performance,User can answer personality questions without form reset,Backlog,Minor issues found,Yes,2026-01-31
+GAB-1096,Photo upload reliability,Selected gender is reflected correctly in story text,Released,Worked as expected,Yes,2026-02-21
+GAB-1097,Book cover generation step,Other characters appear in generated story context,Released,Worked as expected,Yes,2026-01-22
+GAB-1098,Recipient name input validation,Photo upload accepts JPG/PNG up to size limit,In Progress,Worked as expected,Yes,2026-02-27
+GAB-1099,Checkout payment processing,Selected gender is reflected correctly in story text,QA Testing,Improved completion rate,No,2026-02-16
+GAB-1100,Personality questions flow,User can enter recipient name without validation errors for normal names,QA Testing,Minor issues found,Yes,2026-02-01
+GAB-1101,Additional characters input handling,User must select a book type before continuing,Backlog,Improved completion rate,Yes,2026-02-17
+GAB-1102,Story tone selection mapping,Occasion must be selectable before moving forward,QA Testing,Worked as expected,Yes,2026-01-13
+GAB-1103,Personality questions flow,Relationship options are clearly visible and selectable,Released,No noticeable impact,Yes,2026-01-25
+GAB-1104,Book cover generation step,User can select one of multiple generated covers,Backlog,Improved completion rate,Yes,2026-01-31
+GAB-1105,Story preview loading performance,User can answer personality questions without form reset,QA Testing,Minor issues found,No,2026-02-04
+GAB-1106,Book cover generation step,User can answer personality questions without form reset,Released,Minor issues found,No,2026-02-02
+GAB-1107,Book type selection UI,Main character name is saved and reflected in story,In Progress,Improved completion rate,Yes,2026-02-23
+GAB-1108,Main character name field,Photo upload accepts JPG/PNG up to size limit,Released,Worked as expected,Yes,2026-01-05
+GAB-1109,Additional characters input handling,Occasion must be selectable before moving forward,QA Testing,Improved completion rate,Yes,2026-01-22
+GAB-1110,Personality questions flow,Other characters appear in generated story context,QA Testing,Minor issues found,No,2026-02-22
+GAB-1111,Book type selection UI,Occasion must be selectable before moving forward,Released,Improved completion rate,Yes,2026-02-10
+GAB-1112,Additional characters input handling,Main character name is saved and reflected in story,Backlog,No noticeable impact,No,2026-02-25
+GAB-1113,Occasion selection step,User can enter recipient name without validation errors for normal names,QA Testing,Minor issues found,Yes,2026-01-03
+GAB-1114,Main character name field,Photo upload accepts JPG/PNG up to size limit,Done,Improved completion rate,No,2026-02-10
+GAB-1115,Book cover generation step,User can answer personality questions without form reset,Released,Improved completion rate,No,2026-01-20
+GAB-1116,Personality questions flow,Photo upload accepts JPG/PNG up to size limit,Done,Improved completion rate,No,2026-01-02
+GAB-1117,Occasion selection step,User can answer personality questions without form reset,Backlog,Caused user confusion,Yes,2026-01-05
+GAB-1118,Gender selection accuracy,Other characters appear in generated story context,In Progress,Improved completion rate,No,2026-03-01
+GAB-1119,Main character name field,Selected gender is reflected correctly in story text,Released,No noticeable impact,No,2026-01-01
+GAB-1120,Photo upload reliability,User must select a book type before continuing,In Progress,Improved completion rate,No,2026-02-05
+GAB-1121,Personality questions flow,User can enter recipient name without validation errors for normal names,In Progress,Improved completion rate,Yes,2026-01-20
+GAB-1122,Additional characters input handling,Payment confirmation shown after successful transaction,Backlog,Caused user confusion,No,2026-02-02
+GAB-1123,Story tone selection mapping,User can answer personality questions without form reset,QA Testing,No noticeable impact,No,2026-02-13
+GAB-1124,Recipient name input validation,Main character name is saved and reflected in story,Released,Caused user confusion,Yes,2026-01-28
+GAB-1125,Story tone selection mapping,User can answer personality questions without form reset,QA Testing,No noticeable impact,Yes,2026-01-31
+GAB-1126,Checkout payment processing,Selected gender is reflected correctly in story text,QA Testing,Caused user confusion,No,2026-02-18
+GAB-1127,Book cover generation step,Relationship options are clearly visible and selectable,In Progress,Minor issues found,Yes,2026-02-03
+GAB-1128,Main character name field,Selected gender is reflected correctly in story text,QA Testing,Improved completion rate,No,2026-01-02
+GAB-1129,Book type selection UI,User can answer personality questions without form reset,QA Testing,Worked as expected,No,2026-02-03
+GAB-1130,Gender selection accuracy,User can select one of multiple generated covers,QA Testing,Worked as expected,Yes,2026-01-21
+GAB-1131,Additional characters input handling,Occasion must be selectable before moving forward,Released,Caused user confusion,No,2026-02-05
+GAB-1132,Gender selection accuracy,User must select a book type before continuing,Released,No noticeable impact,Yes,2026-01-10
+GAB-1133,Main character name field,Main character name is saved and reflected in story,Backlog,No noticeable impact,Yes,2026-02-28
+GAB-1134,Photo upload reliability,Relationship options are clearly visible and selectable,Done,Caused user confusion,No,2026-02-26
+GAB-1135,Additional characters input handling,User can enter recipient name without validation errors for normal names,In Progress,Minor issues found,No,2026-02-22
+GAB-1136,Relationship selection clarity,Payment confirmation shown after successful transaction,Released,Worked as expected,Yes,2026-01-31
+GAB-1137,Main character name field,Selected tone influences narrative style,Released,Worked as expected,No,2026-02-17
+GAB-1138,Email delivery after purchase,Preview loads within acceptable time,QA Testing,Improved completion rate,No,2026-02-02
+GAB-1139,Checkout payment processing,Selected gender is reflected correctly in story text,Backlog,Caused user confusion,Yes,2026-02-25
+GAB-1140,Checkout payment processing,Selected tone influences narrative style,QA Testing,No noticeable impact,Yes,2026-01-13
+GAB-1141,Book cover generation step,User can answer personality questions without form reset,Done,Worked as expected,No,2026-02-22
+GAB-1142,Occasion selection step,Relationship options are clearly visible and selectable,Done,Minor issues found,No,2026-02-05
+GAB-1143,Story preview loading performance,User can answer personality questions without form reset,In Progress,Worked as expected,No,2026-01-10
+GAB-1144,Photo upload reliability,Occasion must be selectable before moving forward,Released,Improved completion rate,Yes,2026-02-05
+GAB-1145,Book type selection UI,Payment confirmation shown after successful transaction,In Progress,Worked as expected,Yes,2026-01-13
+GAB-1146,Recipient name input validation,Photo upload accepts JPG/PNG up to size limit,Done,Minor issues found,Yes,2026-01-30
+GAB-1147,Photo upload reliability,Preview loads within acceptable time,Done,No noticeable impact,Yes,2026-01-17
+GAB-1148,Book cover generation step,Relationship options are clearly visible and selectable,In Progress,Improved completion rate,Yes,2026-01-17
+GAB-1149,Story preview loading performance,Selected tone influences narrative style,In Progress,Minor issues found,No,2026-01-16
+GAB-1150,Recipient name input validation,User can select one of multiple generated covers,Released,Minor issues found,No,2026-01-05
+GAB-1151,Additional characters input handling,Book is emailed automatically after successful payment,In Progress,Worked as expected,No,2026-01-20
+GAB-1152,Occasion selection step,Relationship options are clearly visible and selectable,In Progress,Improved completion rate,Yes,2026-02-17
+GAB-1153,Personality questions flow,User can select one of multiple generated covers,Backlog,Caused user confusion,Yes,2026-01-02
+GAB-1154,Recipient name input validation,Payment confirmation shown after successful transaction,Backlog,Minor issues found,No,2026-02-03
+GAB-1155,Occasion selection step,User can enter recipient name without validation errors for normal names,Backlog,No noticeable impact,No,2026-02-07
+GAB-1156,Recipient name input validation,Book is emailed automatically after successful payment,In Progress,Minor issues found,No,2026-02-09
+GAB-1157,Book cover generation step,User can answer personality questions without form reset,Released,No noticeable impact,No,2026-01-28
+GAB-1158,Email delivery after purchase,Preview loads within acceptable time,Released,Improved completion rate,No,2026-01-02
+GAB-1159,Additional characters input handling,Payment confirmation shown after successful transaction,QA Testing,Improved completion rate,Yes,2026-01-30
+GAB-1160,Personality questions flow,User must select a book type before continuing,Done,Caused user confusion,Yes,2026-01-08
+GAB-1161,Book type selection UI,Payment confirmation shown after successful transaction,Backlog,Minor issues found,No,2026-02-02
+GAB-1162,Personality questions flow,Other characters appear in generated story context,Done,No noticeable impact,Yes,2026-02-24
+GAB-1163,Personality questions flow,Occasion must be selectable before moving forward,Released,Improved completion rate,Yes,2026-02-26
+GAB-1164,Additional characters input handling,Relationship options are clearly visible and selectable,QA Testing,No noticeable impact,Yes,2026-01-03
+GAB-1165,Additional characters input handling,User can select one of multiple generated covers,Released,Minor issues found,No,2026-01-12
+GAB-1166,Relationship selection clarity,User can select one of multiple generated covers,QA Testing,No noticeable impact,Yes,2026-01-25
+GAB-1167,Story preview loading performance,Payment confirmation shown after successful transaction,Backlog,Worked as expected,Yes,2026-02-06
+GAB-1168,Relationship selection clarity,Selected gender is reflected correctly in story text,Done,No noticeable impact,Yes,2026-01-30
+GAB-1169,Gender selection accuracy,Photo upload accepts JPG/PNG up to size limit,In Progress,Improved completion rate,Yes,2026-01-14
+GAB-1170,Book cover generation step,User can answer personality questions without form reset,Backlog,Minor issues found,Yes,2026-01-07
+GAB-1171,Relationship selection clarity,User must select a book type before continuing,Released,Caused user confusion,No,2026-01-12
+GAB-1172,Gender selection accuracy,Relationship options are clearly visible and selectable,QA Testing,Improved completion rate,No,2026-02-28
+GAB-1173,Recipient name input validation,Book is emailed automatically after successful payment,QA Testing,Worked as expected,Yes,2026-01-26
+GAB-1174,Photo upload reliability,Selected gender is reflected correctly in story text,In Progress,Improved completion rate,Yes,2026-01-25
+GAB-1175,Gender selection accuracy,Other characters appear in generated story context,Released,Minor issues found,No,2026-01-06
+GAB-1176,Checkout payment processing,User can enter recipient name without validation errors for normal names,QA Testing,Improved completion rate,Yes,2026-01-16
+GAB-1177,Recipient name input validation,Relationship options are clearly visible and selectable,Released,Improved completion rate,Yes,2026-02-21
+GAB-1178,Additional characters input handling,User can enter recipient name without validation errors for normal names,Done,Caused user confusion,Yes,2026-02-22
+GAB-1179,Email delivery after purchase,Preview loads within acceptable time,Done,Improved completion rate,Yes,2026-01-08
+GAB-1180,Photo upload reliability,User can answer personality questions without form reset,Released,Worked as expected,Yes,2026-02-02
+GAB-1181,Gender selection accuracy,User can answer personality questions without form reset,Done,Minor issues found,No,2026-02-19
+GAB-1182,Main character name field,Other characters appear in generated story context,In Progress,Caused user confusion,No,2026-01-12
+GAB-1183,Recipient name input validation,User can enter recipient name without validation errors for normal names,Done,Caused user confusion,No,2026-02-26
+GAB-1184,Checkout payment processing,User can answer personality questions without form reset,Done,Caused user confusion,Yes,2026-01-06
+GAB-1185,Book cover generation step,Book is emailed automatically after successful payment,Released,Caused user confusion,Yes,2026-01-29
+GAB-1186,Occasion selection step,Payment confirmation shown after successful transaction,Backlog,Caused user confusion,Yes,2026-02-16
+GAB-1187,Story preview loading performance,Payment confirmation shown after successful transaction,Backlog,Improved completion rate,Yes,2026-01-06
+GAB-1188,Story tone selection mapping,User must select a book type before continuing,Backlog,No noticeable impact,Yes,2026-03-01
+GAB-1189,Main character name field,User can enter recipient name without validation errors for normal names,Released,Minor issues found,No,2026-03-02
+GAB-1190,Checkout payment processing,Book is emailed automatically after successful payment,QA Testing,Improved completion rate,Yes,2026-01-24
+GAB-1191,Photo upload reliability,Other characters appear in generated story context,Done,Worked as expected,Yes,2026-01-19
+GAB-1192,Email delivery after purchase,Selected tone influences narrative style,QA Testing,Minor issues found,Yes,2026-01-11
+GAB-1193,Additional characters input handling,Book is emailed automatically after successful payment,Backlog,No noticeable impact,Yes,2026-01-09
+GAB-1194,Occasion selection step,Payment confirmation shown after successful transaction,Done,No noticeable impact,Yes,2026-01-23
+GAB-1195,Photo upload reliability,User can answer personality questions without form reset,QA Testing,Worked as expected,Yes,2026-02-06
+GAB-1196,Additional characters input handling,User can answer personality questions without form reset,Backlog,Minor issues found,Yes,2026-01-05
+GAB-1197,Recipient name input validation,Other characters appear in generated story context,Done,Caused user confusion,No,2026-02-22
+GAB-1198,Book cover generation step,Relationship options are clearly visible and selectable,Backlog,Worked as expected,No,2026-01-18
+GAB-1199,Relationship selection clarity,Other characters appear in generated story context,QA Testing,Caused user confusion,No,2026-01-15
